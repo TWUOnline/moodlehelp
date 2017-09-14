@@ -1,0 +1,2 @@
+If you have access to a Moodle course but can't participate in any of the activities like forums, assignments or quizzes, you might have been manually enrolled in your course with no 'role'. Please check with your instructor that you are properly registered for the course, and if so, [create a ticket](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceCatalog?CategoryID=5436) and an e-Support staff member will be happy to help. 
+
