@@ -22,4 +22,5 @@
 * [Creating Groups and Groupings](creating-groups-and-groupings.md)
 * [Forum Preferences ](forum-preferences.md)
 * [Gradebook \(Instructors Overview\)](gradebook-instructors-overview.md)
+* [Gradebook Setup](gradebook-setup.md)
 
