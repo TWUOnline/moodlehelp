@@ -23,4 +23,5 @@
 * [Forum Preferences ](forum-preferences.md)
 * [Gradebook \(Instructors Overview\)](gradebook-instructors-overview.md)
 * [Gradebook Setup](gradebook-setup.md)
+* [Grader Report](grader-report.md)
 
