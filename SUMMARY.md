@@ -16,4 +16,5 @@
 * [Adding Turnitin Assignments](adding-turnitin-assignments.md)
 * [Assigning a Role](assigning-a-role.md)
 * [Creating a Forum](creating-a-forum.md)
+* [Creating a Quiz](creating-a-quiz.md)
 
