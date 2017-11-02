@@ -9,5 +9,5 @@
 * [I can access my course in Moodle, why can't I participate in a forum or submit an assignment?](i-can-access-my-course-in-moodle-why-cant-i-participate-in-a-forum-or-submit-an-assignment.md)
 * [Signing into Moodle](signing-into-moodle.md)
 * [Adding a User](adding-a-user.md)
-
+* [Backup from MyCourses](backup-from-mycourses.md)
 
