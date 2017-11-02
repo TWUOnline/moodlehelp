@@ -13,4 +13,5 @@
 * [Restore a course from MyCourses](restore-a-course-from-mycourses.md)
 * [Add a question pool](add-a-question-pool.md)
 * [Adding Documents and Page Resources to Moodle](adding-documents-and-page-resources-to-moodle.md)
+* [Adding Turnitin Assignments](adding-turnitin-assignments.md)
 
