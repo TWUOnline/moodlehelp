@@ -27,4 +27,5 @@
 * [Grading all responses to a short or long answer quiz](grading-all-responses-to-a-short-or-long-answer-quiz.md)
 * [Text Editor Preferences](text-editor-preferences.md)
 * [Unenrolling Students](unenrolling-students.md)
+* [Using Groups \(Separate groups and Restricted Access Content\)](using-groups-separate-groups-and-restricted-access-content.md)
 
