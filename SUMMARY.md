@@ -26,4 +26,5 @@
 * [Grader Report](grader-report.md)
 * [Grading all responses to a short or long answer quiz](grading-all-responses-to-a-short-or-long-answer-quiz.md)
 * [Text Editor Preferences](text-editor-preferences.md)
+* [Unenrolling Students](unenrolling-students.md)
 
