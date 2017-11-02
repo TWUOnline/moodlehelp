@@ -10,4 +10,5 @@
 * [Signing into Moodle](signing-into-moodle.md)
 * [Adding a User](adding-a-user.md)
 * [Backup from MyCourses](backup-from-mycourses.md)
+* [Logging into Moodle 3](logging-into-moodle-3.md)
 
