@@ -6,6 +6,8 @@ Note: Your Administration block maybe located on the right hand side of your pag
 
 ![](http://media.screensteps.me/e-support/vrtrrc/first--you-ll-want-to-open-your-course-.png?1504912125)
 
+
+
 #### Click 'Enrol Users'
 
 ##### ![](http://media.screensteps.me/e-support/vrtrrc/now--your-window-should-open-to-a-page-with-a-list-of-the-students-and-persons-enrolled-in-your-cour.png?1504912125)
