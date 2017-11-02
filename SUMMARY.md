@@ -12,4 +12,5 @@
 * [Logging into Moodle 3](logging-into-moodle-3.md)
 * [Restore a course from MyCourses](restore-a-course-from-mycourses.md)
 * [Add a question pool](add-a-question-pool.md)
+* [Adding Documents and Page Resources to Moodle](adding-documents-and-page-resources-to-moodle.md)
 
