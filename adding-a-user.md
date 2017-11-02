@@ -1,4 +1,4 @@
-### Professors now have the option of assigning roles such as Teacher Assistant or Non-editing Teacher to their course. Please follow the instructions below to complete this task.
+#### Professors now have the option of assigning roles such as Teacher Assistant or Non-editing Teacher to their course. Please follow the instructions below to complete this task.
 
 Select the 'Users' option in your Administration block, thenselect the 'Enrolled Users' option.
 
