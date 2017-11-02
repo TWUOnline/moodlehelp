@@ -28,4 +28,5 @@
 * [Text Editor Preferences](text-editor-preferences.md)
 * [Unenrolling Students](unenrolling-students.md)
 * [Using Groups \(Separate groups and Restricted Access Content\)](using-groups-separate-groups-and-restricted-access-content.md)
+* [Creating a Meta-Course](creating-a-meta-course.md)
 
