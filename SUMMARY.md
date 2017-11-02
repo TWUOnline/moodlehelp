@@ -24,4 +24,5 @@
 * [Gradebook \(Instructors Overview\)](gradebook-instructors-overview.md)
 * [Gradebook Setup](gradebook-setup.md)
 * [Grader Report](grader-report.md)
+* [Grading all responses to a short or long answer quiz](grading-all-responses-to-a-short-or-long-answer-quiz.md)
 
