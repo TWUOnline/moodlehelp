@@ -19,4 +19,5 @@
 * [Creating a Quiz](creating-a-quiz.md)
 * [Creating an Assignment Dropbox](creating-an-assignment-dropbox.md)
 * [Creating Chat Rooms](creating-chat-rooms.md)
+* [Creating Groups and Groupings](creating-groups-and-groupings.md)
 
