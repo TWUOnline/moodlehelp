@@ -18,4 +18,5 @@
 * [Creating a Forum](creating-a-forum.md)
 * [Creating a Quiz](creating-a-quiz.md)
 * [Creating an Assignment Dropbox](creating-an-assignment-dropbox.md)
+* [Creating Chat Rooms](creating-chat-rooms.md)
 
