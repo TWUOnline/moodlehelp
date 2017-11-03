@@ -29,13 +29,6 @@
 </div>
 </div>
 
-<div class="clarify-clear">&nbsp;</div>
-</div>
-</div>
-<div class="clarify-clear">&nbsp;</div>
-</div>
-</div>
-<div class="clarify-clear">
 
 ---
 
