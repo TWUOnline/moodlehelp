@@ -1,2 +1,2 @@
-Frequently Asked Questions about Moodle at Trinity Western University
+Frequently Asked Questions about Moodle at Trinity Western University.
 
