@@ -132,14 +132,9 @@
 
 <div class="clarify-clear">&nbsp;</div>
 
-<div class="clarify-step-container" id="clarify-step-6">
-<h3 class="clarify-step-title" style="font-size:30px; font-weight:bold; color:#333; padding:10px 0;">For Further Assistance</h3>
+---
 
-<div class="clarify-step-instructions">
-<p>The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU&rsquo;s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact eSupport for assistance making Moodle work for you.</p>
-</div>
-</div>
+##### For Further Assistance
 
-<div class="clarify-clear">&nbsp;</div>
-</div>
-</div>
+The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
+
