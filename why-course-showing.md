@@ -1,8 +1,3 @@
-
-
-
-
-
 There are several reasons why your course might not be showing in Moodle.
 
 * Your instructor has hidden the course while they are updating it.

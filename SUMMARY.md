@@ -7,7 +7,7 @@
 * [How long will I have access to MyCourses?](how-long-will-i-have-access-to-mycourses.md)
 * [Where can I learn to use Moodle?](where-can-i-learn-to-use-moodle.md)
 * [I can access my course in Moodle, why can't I participate in a forum or submit an assignment?](i-can-access-my-course-in-moodle-why-cant-i-participate-in-a-forum-or-submit-an-assignment.md)
-* Faculty
+* [Faculty](faculty.md)
   * [Adding a User](adding-a-user.md)
 * [Backup from MyCourses](backup-from-mycourses.md)
 * [Logging into Moodle 3](logging-into-moodle-3.md)
@@ -31,6 +31,4 @@
 * [Using Groups \(Separate groups and Restricted Access Content\)](using-groups-separate-groups-and-restricted-access-content.md)
 * [Creating a Meta-Course](creating-a-meta-course.md)
 * Students
-
-
 
