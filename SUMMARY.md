@@ -42,4 +42,5 @@
 
 * [Posting in a forum](posting-in-a-forum.md)
 * [Submitting an assignment](submitting-an-assignment.md)
+* [Unenrol yourself from a course in Moodle](unenrol-yourself-from-a-course-in-moodle.md)
 
