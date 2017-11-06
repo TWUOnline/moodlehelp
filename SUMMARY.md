@@ -12,7 +12,6 @@
 * [I can access my course in Moodle, why can't I participate in a forum or submit an assignment?](i-can-access-my-course-in-moodle-why-cant-i-participate-in-a-forum-or-submit-an-assignment.md)
 * [Forum Preferences ](forum-preferences.md)
 * [Text Editor Preferences](text-editor-preferences.md)
-* [Posting in a forum](posting-in-a-forum.md)
 
 ## FACULTY
 
@@ -38,4 +37,9 @@
 * [Gradebook Setup](gradebook-setup.md)
 * [Grading all responses to a short or long answer quiz](grading-all-responses-to-a-short-or-long-answer-quiz.md)
 * [Grader Report](grader-report.md)
+
+## STUDENTS
+
+* [Posting in a forum](posting-in-a-forum.md)
+* [Submitting an assignment](submitting-an-assignment.md)
 
