@@ -1,4 +1,4 @@
-## Posting in Forum \(Students\)
+## Posting in a Forum \(Students\)
 
 ### Select the Forum in which you want to post.
 
