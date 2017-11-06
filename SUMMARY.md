@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Why Moodle?](why-moodle.md)
+  * [Why Moodle?](why-moodle.md)
 * [Why isn't my course showing in Moodle?](why-course-showing.md)
 * [I dropped my course, why can I still see it in Moodle?](dropped-course.md)
 * [How long will I have access to MyCourses?](how-long-will-i-have-access-to-mycourses.md)
@@ -29,4 +29,6 @@
 * [Unenrolling Students](unenrolling-students.md)
 * [Using Groups \(Separate groups and Restricted Access Content\)](using-groups-separate-groups-and-restricted-access-content.md)
 * [Creating a Meta-Course](creating-a-meta-course.md)
+
+
 
