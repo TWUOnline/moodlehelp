@@ -11,7 +11,6 @@
 * [Backup from MyCourses](backup-from-mycourses.md)
 * [Logging into Moodle 3](logging-into-moodle-3.md)
 * [Restore a course from MyCourses](restore-a-course-from-mycourses.md)
-* [Add a question pool](faculty/add-a-question-pool.md)
 * [Adding Documents and Page Resources to Moodle](adding-documents-and-page-resources-to-moodle.md)
 * [Adding Turnitin Assignments](adding-turnitin-assignments.md)
 * [Assigning a Role](assigning-a-role.md)
@@ -29,4 +28,8 @@
 * [Unenrolling Students](unenrolling-students.md)
 * [Using Groups \(Separate groups and Restricted Access Content\)](using-groups-separate-groups-and-restricted-access-content.md)
 * [Creating a Meta-Course](creating-a-meta-course.md)
+
+## FACULTY
+
+* [Add a question pool](faculty/add-a-question-pool.md)
 
