@@ -33,6 +33,7 @@
 
 ## GRADEBOOK
 
+* [Grade an assignment](grade-an-assignment.md)
 * [Gradebook \(Instructors Overview\)](gradebook-instructors-overview.md)
 * [Gradebook Setup](gradebook-setup.md)
 * [Grading all responses to a short or long answer quiz](grading-all-responses-to-a-short-or-long-answer-quiz.md)
