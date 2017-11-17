@@ -11,7 +11,7 @@ Please confirm that you have links for all of your Fall 2017 courses under 'Cour
 
 If you do not see all of your courses, please submit a [helpdesk ticket](https://trinitywestern.teamdynamix.com/TDClient/Requests/TicketRequests/TicketForm.aspx?ID=hRv7mA08DtA_).
 
-![](http://media.screensteps.me/e-support/7h6gw2/you-will-land-on-your-dashboard-page-in-moodle.png?1499377681)
+![](/assets/course overview.png)
 
 ##### For Further Assistance
 
