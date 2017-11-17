@@ -8,7 +8,6 @@
 <div class="clarify-steps-container">
 <div class="clarify-step-container" id="clarify-step-1">
 <h3 class="clarify-step-title">&nbsp;</h3>
-
 <h3 class="clarify-step-title">From your course in MyCourses, click &#39;Backup&#39; under the Course Menu.</h3>
 
 <div class="clarify-step-image-wrapper">
