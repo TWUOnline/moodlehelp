@@ -1,20 +1,19 @@
-Text Editor Preferences
+#### Text Editor Preferences
 
 Click your name in the top right corner.
 
 Choose 'Preferences'.
-
+![](/assets/click-your-name-in-the-top-right-corner.png)
 
 Click 'Editor Preferences'
-
+![](/assets/click--editor-preferences-.png)
 
 In the dropdown, choose 'TinyMCE HTML editor'
 
 Click 'Save changes'
-
+![](/assets/in-the-dropdown--choose--tinymce-html-editor-.png)
 
 If you choose the 'Plain text area' option, you can copy and paste Markdown and other languages.
-
 
 ##### For Further Assistance
 
