@@ -11,14 +11,10 @@
 
 <div class="clarify-step-image-wrapper">
 <div class="clarify-step-image-container"><img alt="" class="clarify-step-image" height="45" src="http://media.screensteps.me/e-support/pkery3/remember--always-turn-editing-on.png?1495743833" width="221" /></div>
-</div>
+
 
 <div class="clarify-step-instructions">
 <p>Choose Assignment from the Activity menu. Then click &quot;<strong>Add</strong>&quot; at the bottom of the window.</p>
-</div>
-</div>
-
-<div class="clarify-clear">&nbsp;</div>
 
 <div class="clarify-clear">&nbsp;</div>
 
