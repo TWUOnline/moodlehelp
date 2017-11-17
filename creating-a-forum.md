@@ -32,12 +32,8 @@
 	</li>
 	<li>
 	<p>Once you have adjusted the settings, click <b>Save and display</b> to view the created forum.</p>
-	</li>
-</ol>
-
-<p>&nbsp;</p>
-
-<p>5. Now that you have created a forum, you can add a <b>Discussion Topic</b>.<span class="fluff"> Adding a Discussion Topic allows students to participate in the forum. Without a Discussion Topic, students will see an empty forum. To add a new discussion topic: </span></p>
+	</li> 
+	<p>5. Now that you have created a forum, you can add a <b>Discussion Topic</b>.<span class="fluff"> Adding a Discussion Topic allows students to participate in the forum. Without a Discussion Topic, students will see an empty forum. To add a new discussion topic: </span></p>
 
 <ol>
 	<li>
