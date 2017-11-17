@@ -1,4 +1,20 @@
+## Choose "+ a random question"
 
+![](http://media.screensteps.me/e-support/mthfa9/choose-----a-random-question-.png?1494544830 "Choose &apos;&quot;+ a random question&quot;")
+
+##  
+
+1. Choose the pool from which to draw the questions. \(The number of questions in the pool will be in parentheses\).
+2. Choose the number of questions.
+3. Click 'Add random question'.
+
+![](http://media.screensteps.me/e-support/mthfa9/def08a98-d99b-4c44-9bdb-d67bc93d8bbd.png?1494544831 "def08a98-d99b-4c44-9bdb-d67bc93d8bbd.png")
+
+## Be pleased with yourself.
+
+![](http://media.screensteps.me/e-support/mthfa9/be-pleased-with-yourself.jpg?1494544831 "Be pleased with yourself.")
+
+##### 
 
 ##### For Further Assistance
 
