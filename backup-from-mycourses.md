@@ -4,7 +4,6 @@
 <div class="clarify-article-description">
 <p>Your first step in moving your course content from MyCourses to Moodle.</p>
 </div>
-
 <div class="clarify-steps-container">
 <div class="clarify-step-container" id="clarify-step-1">
 <h3 class="clarify-step-title">&nbsp;</h3>
