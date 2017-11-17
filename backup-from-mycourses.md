@@ -3,20 +3,13 @@
 
 <div class="clarify-article-description">
 <p>Your first step in moving your course content from MyCourses to Moodle.</p>
-</div>
 <div class="clarify-steps-container">
-<div class="clarify-step-container" id="clarify-step-1">
-<h3 class="clarify-step-title">&nbsp;</h3>
+<h3 class="clarify-step-title"></h3>
 <h3 class="clarify-step-title">From your course in MyCourses, click &#39;Backup&#39; under the Course Menu.</h3>
-
 <div class="clarify-step-image-wrapper">
 <div class="clarify-step-image-container">&nbsp;</div>
 
 <div class="clarify-step-image-container"><img alt="" class="clarify-step-image" height="441" src="http://media.screensteps.me/e-support/whll6e/from-your-course-in-mycourses--click--backup--under-the-course-menu.png?1499363126" width="199" /></div>
-</div>
-</div>
-
-<div class="clarify-clear">&nbsp;</div>
 
 <div class="clarify-step-container" id="clarify-step-2">
 <h3 class="clarify-step-title">Use the checkmarks to deselect items that you do not want to back up, or don&#39;t change anything to back up everything.</h3>
