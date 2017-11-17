@@ -1,4 +1,4 @@
-#### Text Editor Preferences
+##### Text Editor Preferences
 
 Click your name in the top right corner.
 
