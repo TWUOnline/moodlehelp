@@ -33,13 +33,7 @@
 	<li>Enter a Description of the Assignment.</li>
 	<li>You can check this box if you wish the description be displayed on the course page.</li>
 	<li>Be sure to add any neccessary attachments here.</li>
-</ol>
-</div>
-</div>
 
-<div class="clarify-clear">&nbsp;</div>
-
-<div class="clarify-clear">&nbsp;</div>
 
 <div class="clarify-step-container" id="clarify-step-3">
 <h3 class="clarify-step-title">Other options for your assignment dropbox.</h3>
@@ -56,13 +50,6 @@
 <div class="clarify-step-image-container"><img alt="" class="clarify-step-image" height="787" src="http://media.screensteps.me/e-support/pkery3/other-options-for-your-assignment-dropbox.png?1495743835" width="909" /></div>
 </div>
 </div>
-
-<div class="clarify-clear">&nbsp;</div>
-
-<div class="clarify-step-container" id="clarify-step-5">
-<h3 class="clarify-step-title">&nbsp;</h3>
-
-<h3 class="clarify-step-title">&nbsp;</h3>
 
 ---
 
