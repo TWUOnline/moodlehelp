@@ -4,23 +4,22 @@
 
 1. **Turn editing on** and scroll down to the section of the course in which you want to add a document.
 
-2. Click the ![](http://media.screensteps.me/e-support/2zzhjj/option-2---restricting-access.png?1495575493) button in the bottom right hand corner of the section.
+2. Click the ![](/assets/option-2---restricting-access.png) button in the bottom right hand corner of the section.
 
 3. From the list that appears, scroll down to the "**Resources**" heading and select "**File**."
 
-![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=4bbe360a-f15b-4fa2-a2c0-4bb9bb1ca0a0.PNG)
+![](/assets/Viewer8.png)
 
 4. Provide a name for your document. The name that you provide will appear on your course homepage.
 
-5. Next, find the "**Select Files**" heading and browse for a file by selecting the![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=00e19e23-6161-4665-a3ab-a087a1d056a8.PNG)icon in the left hand corner, or drag and drop the file into the box provided.
+5. Next, find the "**Select Files**" heading and browse for a file by selecting the ![](/assets/Viewer9.png)icon in the left hand corner, or drag and drop the file into the box provided.
 
-The Search and Upload Option ![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=00e19e23-6161-4665-a3ab-a087a1d056a8.PNG) : A pop-up window will appear; from the list on the left hand side, select![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=344e002f-65d7-4fc3-b527-3c76408b0c06.PNG). Browse for the file on your computer, select it, and then click![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=2d94b254-1aad-4460-b477-6d75be024c97.PNG). Your newly uploaded file will appear as an icon as pictured below.
+The Search and Upload Option ![](/assets/Viewer9.png) : A pop-up window will appear; from the list on the left hand side, select![](/assets/upload file.png). Browse for the file on your computer, select it, and then click![](/assets/upload this file.png). Your newly uploaded file will appear as an icon as pictured below.
 
-![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=b60bbfaa-529a-4f97-a2e7-03e99f4c7d26.PNG)
+![](/assets/Viewer10.png)
 
 6. Alternatively, you can **drag** a file from your desktop or a folder on your computer into the box where it reads "**You can drag and drop files here to add them**." To do this, click on a file from your computer and hold it down, while dragging it to the aforementioned box. Let go of the document once you are hovering over the box. Your document should then appear as an icon within that box.
-
-![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=a2511a95-d495-498c-b7ae-599532cc2d8b.gif)
+![](/assets/document add.gif)
 
 7. Once you have uploaded your document, and entered othe other options you desire, select the "**Save and return to course**" button at the bottom of the page. The document will now be accessible to students through the course homepage.
 
@@ -41,11 +40,10 @@ The Search and Upload Option ![](https://trinitywestern.teamdynamix.com/TDPortal
 
 5. In the "**Content**" section, you can paste the text that you would normally have posted in the form of a document. You can copy and paste materials from documents into this page, or you can create your own content. You can also provide other kinds of resources, such as documents, images, videos or a link to a website.
 
-![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=79b751b6-6da1-4d23-8f61-45d3a1754c00.PNG)
+![](/assets/page content.png)
 
 6. Click **"Save & Display"**
-
-![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=e53501d4-d9e1-4c2c-9464-4b91f3a95d6d.gif)
+![](/assets/save display.gif)
 
 ##### 
 ---
