@@ -54,7 +54,6 @@ Now that your meta-course is created, students can see the meta-course and the r
 ![](/assets/so--you-ve-made-a-meta-course.png)
 
   
-
 ---
 ##### For Further Assistance
 
