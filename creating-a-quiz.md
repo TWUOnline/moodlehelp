@@ -17,8 +17,6 @@ Supply a name for your quiz, and enter a description if you wish
   ![](/assets/part-1--creating-a-quiz.png)
 
   
-
-
 ###  
 
 ### Other options to utilize.
@@ -36,8 +34,6 @@ Remember that you can edit your quiz name and settings at any time by returning 
 ![](/assets/other-options-to-utilize.png)
 
   
-
-
 ###  
 
 ### Part 2: Adding Questions to a Quiz
@@ -51,7 +47,6 @@ A list of question types will be provided in a pop-up window. Each type of quest
 **Note:** If you use options such as "**Short Answer**," students have to type in the exact answer that you have created in order to be graded correctly. For this reason, short answer questions may work best for one or two word answers. Essay questions can be utilized, but must be marked manually.
 ![](/assets/part-2--adding-questions-to-a-quiz.png)
 
-  
 
 
 ###  
@@ -70,7 +65,6 @@ Provide text for your question, such as:
 
   
 
-
 ###  
 
 ### Give your question a point value by typing in the "Default points" box.
@@ -80,7 +74,6 @@ You can choose to provide general feedback to students which will be displayed o
 
   
 
-
 ###  
 
 ### \*For creating a Multiple Choice Question\*
@@ -89,7 +82,6 @@ You can choose to provide general feedback to students which will be displayed o
 There are several "Choice" options that you can create for the question. Fill in the first possible answer in the "Choice 1" box. If it is the correct answer, select "100%" from the "Grade" dropdown menu. If it is not the correct answer, select "None" from the "Grade" dropdown menu. If you chose "Multiple answer allowed" from the dropdown menu, make sure you select the appropriate grade breakdown for how much the particular "Choice" is worth. The "Feedback" box allows you to provide feedback to a particular question if desired. For example; "Incorrect. See 'Chapter 2' for more information on this question." After you have added all of the appropriate settings for "Choice 1," move on to "Choice 2" and follow the same instructions as for "Choice 1." Continue until you have filled in all of the possible answers that you would like to provide for this particular question.
 
   
-
 
 ###  
 
@@ -110,7 +102,7 @@ There are several "Choice" options that you can create for the question. Fill in
 \*Note: You may add as many questions to a quiz as you would like. You are also able to preview your quiz to have a sneak peak of what your quiz will look like to students. Go to your Administration block and select "**Preview**". If you need to edit further after previewing your quiz, open the quiz and select "**Edit Quiz**" in your Administration block.
 
 ##### 
-
+---
 ##### For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
