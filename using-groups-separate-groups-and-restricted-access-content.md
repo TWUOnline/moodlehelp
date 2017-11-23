@@ -33,8 +33,7 @@ Make sure that editing is turned on, and begin the creation of your forum by goi
 From the list that pops up, select "Forum" and then click "Add."
 
 ![](/assets/option-2---restricting-access.png)
-
-  
+ 
 ###  
 
 ### Enter all the necessary details
