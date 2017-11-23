@@ -8,14 +8,11 @@ The most commonly used Activities, Assignment Dropboxes allow students to submit
 
 Choose Turnitin Assignment 2 from the Activity menu. Then click "**Add**" at the bottom of the window.
 
-![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=4aafe7ac-57e9-4ecd-a8b2-ede33a4e7bd1.PNG)
-
-  
+![](/assets/Viewer5.png)
 
 
 ### Next, add details.
-
-![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=ca0d24db-d832-49fe-b78a-61e87ecfc04f.PNG)
+![](/assets/Viewer6.png)
 
 The next page is entitled Adding a New Turnitin Assignment.
 
@@ -32,8 +29,7 @@ You may set the parameters for your assignment dropbox using the following optio
 **Note** that because you must select a time from the 24 hour clock, it is often convenient to make an assignment due at 23:55, or 11:55PM, on the date that it is due to avoid due date mix ups for students.
 
 Once options are selected click **Save and return to course or display** to preview your drop box.
-
-![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=3aff9d5a-c6e4-421b-8359-87080d6bc01d.PNG)
+![](/assets/Viewer7.png)
 
 ---
 ##### For Further Assistance
