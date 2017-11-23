@@ -4,16 +4,15 @@
 To create a forum, please take the following steps:
 
 1. Click the "**Turn Editing On**" button in the top-right corner of your course page.
-
-![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=c79c4686-38c6-408b-99d6-07b5b1d12598.gif)
+![](/assets/edit on moodle 3.gif)
 
 2. Click on the "**Add an activity or resource**" option.
 
-![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=224bb83b-526d-4be7-aee6-eca18f65efb1.gif)
+![](/assets/activity or resource moodle 3.gif)
 
 3. Choose "**Forum**" and click "**Add**"
 
-![](https://trinitywestern.teamdynamix.com/TDPortal/Images/Viewer?fileName=525243f5-1aa7-4843-ab92-d454f70eb9f3.gif)
+![](/assets/choose forum moodle 3.gif)
 
   
 
