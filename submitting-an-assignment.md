@@ -10,7 +10,7 @@ To learn how to submit an assignment on MyCourses, follow the instructions below
 
 Click on the assignment dropbox for the particular assignment that you wish to submit.
 
-![](http://media.screensteps.me/e-support/22exvr/dropbox-sumission.png?1495568617)
+![](/assets/dropbox-sumission.png)
 
 ### 
 
@@ -18,7 +18,7 @@ Click on the assignment dropbox for the particular assignment that you wish to s
 
 You can review assignment details, submission date and other criteria, when ready click on "Add Submission."
 
-![](http://media.screensteps.me/e-support/22exvr/once-the-assignment-is-open.png?1495568618)
+![](/assets/once-the-assignment-is-open.png)
 
 ### 
 
@@ -26,7 +26,7 @@ You can review assignment details, submission date and other criteria, when read
 
 Upload your file by clicking on the Arrow icon or by dragging the file into the dropbox.
 
-![](http://media.screensteps.me/e-support/22exvr/a-new-window-will-open.png?1495568619)
+![](/assets/a-new-window-will-open.png)
 
 ### 
 
@@ -38,7 +38,7 @@ Locate the file your wish to upload. Click "Open", then "Upload this file".
 
 It might take a moment to upload.
 
-![](http://media.screensteps.me/e-support/22exvr/you-ll-have-a-few-options.png?1495568619)
+![](/assets/you-ll-have-a-few-options.png)
 
 ### 
 
@@ -46,7 +46,7 @@ It might take a moment to upload.
 
 Once you have selected the correct document, choose"Save changes".
 
-![](http://media.screensteps.me/e-support/22exvr/once-upload-is-completed.png?1495568620)
+![](/assets/once-upload-is-completed.png)
 
 ### 
 
@@ -54,7 +54,7 @@ Once you have selected the correct document, choose"Save changes".
 
 Once you have competed the task and uploaded the file you desire, you can click "Submit assignment". And select "Continue".
 
-![](http://media.screensteps.me/e-support/22exvr/you-can-submit-or-edit-your-submission-here.png?1495568621)
+![](/assets/you-can-submit-or-edit-your-submission-here.png)
 
 ### 
 
@@ -62,7 +62,7 @@ Once you have competed the task and uploaded the file you desire, you can click 
 
 Your submission page should now look similar to this. It shows a file was submitted, the date and time. Feel free to add comments for your professor if needed.
 
-![](http://media.screensteps.me/e-support/22exvr/congrats--you-ve-just-uploaded-your-first-assignment-.png?1495568622)
+![](/assets/congrats--you-ve-just-uploaded-your-first-assignment-.png)
 
 ---
 
