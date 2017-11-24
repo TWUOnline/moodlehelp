@@ -1,10 +1,9 @@
-## Posting in a Forum \(Students\)
+## Posting in Forum \(Students\) 
 
 ### Select the Forum in which you want to post.
 
-![](http://media.screensteps.me/e-support/9epqxf/select-the-forum-in-which-you-want-to-post.png?1495564642)
-
-### 
+![](/assets/select-the-forum-in-which-you-want-to-post.png)
+  
 
 ### Some forums may require you to respond to a discussion topic that the instructor has already posted.
 
@@ -12,25 +11,24 @@ If this is the case, when you arrive in the forum, find the current topic to whi
 
 Within that topic, you will now see the already posted discussions by your classmates or Professor.
 
-![](http://media.screensteps.me/e-support/9epqxf/some-forums-may-require-you-to-respond-to-a-discussion-topic-that-the-instructor-has-already-posted.png?1495564642)
+![](/assets/some-forums-may-require-you-to-respond-to-a-discussion-topic-that-the-instructor-has-already-posted.png)
 
-### 
+  
 
 ### Select the entry you would like to reply to.
 
 To post a response to the discussion question, select the "Reply" button beneath the original post.
 
-![](http://media.screensteps.me/e-support/9epqxf/select-the-entry-you-would-like-to-reply-to.png?1495564643)
+![](/assets/select-the-entry-you-would-like-to-reply-to.png)
 
-### 
+  
 
 ### To submit your own forum post.
 
 Other instructors may require students to add their own discussion topics to a forum. If this is the case, click the "Add a new discussion topic" button.
+![](/assets/to-submit-your-own-forum-post-.png)
 
-![](http://media.screensteps.me/e-support/9epqxf/to-submit-your-own-forum-post-.png?1495564644)
 
-### 
 
 ### Adding topic and content
 
@@ -38,18 +36,15 @@ Once you have clicked "Add a new discussion topic", you will be redirected to th
 
 When you are finished, save your post by clicking "Post to forum" at the bottom of the page.
 
-![](http://media.screensteps.me/e-support/9epqxf/adding-topic-and-content.png?1495564645)
+![](/assets/adding-topic-and-content.png)
 
-### 
+  
 
 ### Timeline to edit original posts.
 
 You can edit your discussion topic for 30 minutes after posting. You can delete your posts or responses at any time.
 
-
-
 ---
-
 ### For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact eSupport for assistance making Moodle work for you.
