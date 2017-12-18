@@ -27,6 +27,7 @@
 * [Creating a Quiz](creating-a-quiz.md)
 * [Creating Chat Rooms](creating-chat-rooms.md)
 * [Creating Groups and Groupings](creating-groups-and-groupings.md)
+* [Importing content from a previous cohort](faculty/importing-content-from-a-previous-cohort.md)
 * [Restore a course from MyCourses](restore-a-course-from-mycourses.md)
 * [Unenrolling Students](unenrolling-students.md)
 * [Using Groups \(Separate groups and Restricted Access Content\)](using-groups-separate-groups-and-restricted-access-content.md)
