@@ -1,4 +1,4 @@
-Frequently Asked Questions about Moodle at Trinity Western University.
+###Frequently Asked Questions about Moodle at Trinity Western University.
 
 #### Why Moodle?
 MyCourses is actually a very old version of Moodle and it is no longer supported by the Moodle community. It has become a major security risk for our IT systems and it was time for an upgrade.
