@@ -10,7 +10,6 @@
 * [Logging into Moodle 3](logging-into-moodle-3.md)
 * [Where can I learn to use Moodle?](where-can-i-learn-to-use-moodle.md)
 * [Why isn't my course showing in Moodle?](why-course-showing.md)
-* [Why Moodle?](why-moodle.md)
 
 ## FACULTY
 
