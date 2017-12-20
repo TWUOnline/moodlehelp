@@ -12,6 +12,7 @@
 * [I can access my course in Moodle, why can't I participate in a forum or submit an assignment?](i-can-access-my-course-in-moodle-why-cant-i-participate-in-a-forum-or-submit-an-assignment.md)
 * [Forum Preferences ](forum-preferences.md)
 * [Text Editor Preferences](text-editor-preferences.md)
+* [Editing your Course List](editing-your-course-list.md)
 
 ## FACULTY
 
