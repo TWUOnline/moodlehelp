@@ -3,16 +3,14 @@
 ## GENERAL
 
 * [Introduction](README.md)
-* [Why Moodle?](why-moodle.md)
-* [Logging into Moodle 3](logging-into-moodle-3.md)
-* [Why isn't my course showing in Moodle?](why-course-showing.md)
-* [I dropped my course, why can I still see it in Moodle?](dropped-course.md)
-* [How long will I have access to MyCourses?](how-long-will-i-have-access-to-mycourses.md)
-* [Where can I learn to use Moodle?](where-can-i-learn-to-use-moodle.md)
-* [I can access my course in Moodle, why can't I participate in a forum or submit an assignment?](i-can-access-my-course-in-moodle-why-cant-i-participate-in-a-forum-or-submit-an-assignment.md)
-* [Forum Preferences ](forum-preferences.md)
-* [Text Editor Preferences](text-editor-preferences.md)
 * [Editing your Course List](editing-your-course-list.md)
+* [Forum Preferences ](forum-preferences.md)
+* [How long will I have access to MyCourses?](how-long-will-i-have-access-to-mycourses.md)
+* [I dropped my course, why can I still see it in Moodle?](dropped-course.md)
+* [Logging into Moodle 3](logging-into-moodle-3.md)
+* [Where can I learn to use Moodle?](where-can-i-learn-to-use-moodle.md)
+* [Why isn't my course showing in Moodle?](why-course-showing.md)
+* [Why Moodle?](why-moodle.md)
 
 ## FACULTY
 
