@@ -12,6 +12,8 @@ You may see some items in your course from the previous cohort os students, but 
 
 ![](/assets/Screen Shot 2018-01-17 at 10.53.14 AM.png)If the 'Aggregation' is anything other than 'Natural', change it to Natural, scroll to the bottom of the page, and click 'Save Changes'.
 
+![](/assets/Screen Shot 2018-01-17 at 12.00.44 PM.png)
+
 ### Create Your Categories
 
 ##### Scroll to the bottom of Gradebook Setup page and click **"Add Category"**.
