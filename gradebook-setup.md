@@ -1,4 +1,4 @@
-## Gradebook Setup 
+## Gradebook Setup
 
 First rule of Gradebook Setup...
 
@@ -16,9 +16,7 @@ See our example below for a "Before shot" of an example Gradebook:
 
 ![](/assets/add-all-of-your-assignments-first-.png)
 
-  
-
-### First, creating Categories
+### Creating Categories
 
 At the bottom of Gradebook Setup there is an option to **"Add Category",** select it. You will have the option of naming the category and giving it an aggregation\*, you can also determine the category total
 
@@ -30,17 +28,13 @@ Once the data is entered "**Save Changes"**
 
 ![](/assets/first--creating-categories.png)
 
-  
-
-### Next, rearranging grade items in there respective categories.
+### Add grade items to categories
 
 To rearrange grade items click on the Move arrow located next to each grade item.
 
 Once you select a space you would like to move to, select it.
 
 ![](/assets/next--rearranging-grade-items-in-there-respective-categories.png)
-
-  
 
 ### Grade Item Settings
 
@@ -55,8 +49,6 @@ You can hide this item from student's gradebook or lock the item after a certain
 **\*The Max grade must be altered in the grade item's settings on the course page. Max grades cannot be altered in Gradebook or grade item Setup.**
 
 ![](/assets/grade-item-settings.png)
-
-  
 
 ### Weights and Max Grades
 
@@ -78,8 +70,6 @@ Remember: Weights will determine what percentage of the final course grade each 
 
 ![](/assets/weights-and-max-grades.png)
 
-  
-
 ### Other options of this page.
 
 You may also move grade items using the drop down menu in the picture below.
@@ -89,6 +79,7 @@ Simple use the check boxes of each item, check
 ![](/assets/other-options-of-this-page.png)
 
 ---
+
 ##### For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
