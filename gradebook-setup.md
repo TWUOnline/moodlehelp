@@ -40,59 +40,56 @@ Creating an 'Assignment' in Moodle does several things:
 
 ##### Please see the article '[Creating an Assignment Dropbox](https://twonline.gitbooks.io/moodlefaq/content/creating-an-assignment-dropbox.html)' for instructions.
 
+In the image below, you can see that I have added an 'Assignments' category plus three assignment dropboxes in the course.
+
+Note that the assignments are currently weighted proportionally to their 'Max grade' value. Do not adjust the weights yet!
+
+![](/assets/Screen Shot 2018-01-17 at 11.27.59 AM.png)
+
 
 
 ### Add _all_ of your manual grade items.
 
+A manual grade item is an assessment that students do not submit through Moodle. It may be an exam grade, or participation, or maybe an in-class presentation.
+
+##### Scroll to the bottom of the page and click 'Add Grade Item'.
+
+* ##### Give the item a name, 
+* ##### adjust the Maximum grade as necessary, 
+* ##### add the item to the proper category,
+* ##### click 'Save changes'.
+
+Now, I have added another category for mid-term exams with two midterms, and a final exam. Again, notice the weights are not correct, but Moodle has adjusted them to total 100.
+
+![](/assets/Screen Shot 2018-01-17 at 11.39.22 AM.png)
 
 
-### 
 
-### Add grade items to categories
+### Adjust 'Category' weights.
+
+Select the checkboxes for each of the categories and individual manual grade items that constitute your final grade. In the example below, I have chosen the 'Assignments', and 'Mid-term Exams' categories along with the 'Final Exam'.
+
+Set the weights to exactly match your syllabus and they must total 100.
+
+Note that Moodle will _always_ adjust these weights to total 100.
+
+### ![](/assets/Screen Shot 2018-01-17 at 11.44.01 AM.png)
+
+### Adjust grade items _within_ each category.
+
+In the example above, the three assignments are weighted within the category according to their 'Max Grade'. To change that, select the checkboxes beside each of them and change their individual weights to total 100.
 
 
 
+![](/assets/Screen Shot 2018-01-17 at 11.51.47 AM.png)
 
+**\*The Max grade must be altered in the grade item's settings on the course page. Max grades cannot be altered in Gradebook or grade item Setup**
 
-### Grade Item Settings
-
-Once you have navigated all the grade items to their correct order you can now set further parameters for your grade items.
-
-First, with Editing On, under the **Actions** column select the dropdown**Edit** menu, select "Edit Settings"
-
-You can add Grade Item parameters and Parent Category on this page. If you have any questions about the items on this page you can click on the question mark located next to each item.
-
-You can hide this item from student's gradebook or lock the item after a certain date, you can also give weight details and assign a category if not done previously.
-
-**\*The Max grade must be altered in the grade item's settings on the course page. Max grades cannot be altered in Gradebook or grade item Setup.**
-
-![](/assets/grade-item-settings.png)
-
-### Weights and Max Grades
-
-Below is a before and after shot of a gradebook that has been altered to match a syllabus which had a grade weight of 100%.
-
-You can see that all of the grade items are placed randomly in the gradebook. However after some arranging and assigning categories we were able to have a better laid out gradebook.
-
-1. We created a category which is the Research Question Assignment which makes up 20% of the overall mark, however it has 5 assignments which at each 20% of the make up this assignment.
-2. The Annotated 
-   Bibilography
-    makes up 30% of the course grades, it has one assignment associated with it. If we had two assignments associated with this category we would then give the weight 50% each \(we hope you get the picture\).
-3. Notice all together the weight for the 
-   gradebook
-    is 100%, now we are all set to enter grade for students.
-
-Remember: Weights will determine what percentage of the final course grade each activity is worth. Gradebook does not calculate the total of the Weights for you, so you will want to ensure that the weights you enter add up to 100. If not all of the grades for the course are in the Gradebook, you will want the total of the Weights to be whatever percentage is in Gradebook. For example, if 70% of the assignments are in Gradebook, you will want the Weights to add up to 70.
-
-**NOTE: Always make sure you click on Save Changes before navigating away from the Gradebook page.**
-
-![](/assets/weights-and-max-grades.png)
-
-### Other options of this page.
+### Other options on this page.
 
 You may also move grade items using the drop down menu in the picture below.
 
-Simple use the check boxes of each item, check
+Select the check boxes in the righthand column of each item, scroll down and use the dropdown to move items to a different category.
 
 ![](/assets/other-options-of-this-page.png)
 
