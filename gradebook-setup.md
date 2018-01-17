@@ -1,8 +1,44 @@
 ## Gradebook Setup
 
-First rule of Gradebook Setup...
+## Check the Aggregation method
 
-### Add all of your assignments first.
+##### In your 'Administration' block, click 'Gradebook setup.
+
+![](/assets/Screen Shot 2018-01-17 at 10.41.25 AM.png)
+
+You may see some items in your course from the previous cohort os students, but we will start from an empty gradebook for this tutorial.
+
+##### In the top row of the gradebook setup screen \(it should display the name of your course\), click 'Edit', then 'Edit Settings'.
+
+![](/assets/Screen Shot 2018-01-17 at 10.53.14 AM.png)If the 'Aggregation' is anything other than 'Natural', change it to Natural, scroll to the bottom of the page, and click 'Save Changes'.
+
+### Create Your Categories
+
+##### Scroll to the bottom of Gradebook Setup page and click **"Add Category"**. 
+
+Enter a name for the category, such as 'Assignments', or 'Quizzes'.
+
+_Do not_ create categories for single items in your course such as a final exam or participation grade.
+
+* Click "Show More" for more options such as excluding empty grades, and dropping the lowest grade.
+* You will not be able to adjust anything in the 'Category total' section.
+
+Click "**Save Changes"**
+
+**Be sure to repeat these steps if you need to create more categories in alignment with your syllabus.**
+
+![](/assets/Screen Shot 2018-01-17 at 11.04.53 AM.png)
+
+### Add _all_ of your Assignments.
+
+Creating an 'Assignment' in Moodle does several things:
+
+* it allows you to communicate the details of each assignment to students, including due dates and the value of the assignment;
+* it provides a 'dropbox' for students to submit their work to you;
+* it provides a grading workflow for you;
+* it creates a column in your gradebook
+
+
 
 **We can't stress this enough, you want to make sure all your syllabus entries are made on your course first before attempting to setup your gradebook.**
 
@@ -16,17 +52,7 @@ See our example below for a "Before shot" of an example Gradebook:
 
 ![](/assets/add-all-of-your-assignments-first-.png)
 
-### Creating Categories
-
-At the bottom of Gradebook Setup there is an option to **"Add Category",** select it. You will have the option of naming the category and giving it an aggregation\*, you can also determine the category total
-
-\*Click "Show More" for more options such as excluding empty grades, and dropping the lowest.
-
-Once the data is entered "**Save Changes"**
-
-**Be sure to repeat these steps if you need to create more categories.**
-
-![](/assets/first--creating-categories.png)
+### 
 
 ### Add grade items to categories
 
