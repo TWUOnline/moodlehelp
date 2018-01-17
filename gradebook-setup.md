@@ -14,7 +14,7 @@ You may see some items in your course from the previous cohort os students, but 
 
 ### Create Your Categories
 
-##### Scroll to the bottom of Gradebook Setup page and click **"Add Category"**. 
+##### Scroll to the bottom of Gradebook Setup page and click **"Add Category"**.
 
 Enter a name for the category, such as 'Assignments', or 'Quizzes'.
 
@@ -38,29 +38,21 @@ Creating an 'Assignment' in Moodle does several things:
 * it provides a grading workflow for you;
 * it creates a column in your gradebook
 
+##### Please see the article '[Creating an Assignment Dropbox](https://twonline.gitbooks.io/moodlefaq/content/creating-an-assignment-dropbox.html)' for instructions.
 
 
-**We can't stress this enough, you want to make sure all your syllabus entries are made on your course first before attempting to setup your gradebook.**
 
-Ensure that all your assignment parameters are entered correctly during they're creation, especially with your **Grades** options, if you need to edit anything such as your Max Grade go back to the course and make your corrections there.
+### Add _all_ of your manual grade items.
 
-Our example below is a perfect example of what your initial gradebook might look like once you create all of your assignments in your course.
 
-Your next steps w ill be to create categories and rearrange each grade items appropriately.
-
-See our example below for a "Before shot" of an example Gradebook:
-
-![](/assets/add-all-of-your-assignments-first-.png)
 
 ### 
 
 ### Add grade items to categories
 
-To rearrange grade items click on the Move arrow located next to each grade item.
 
-Once you select a space you would like to move to, select it.
 
-![](/assets/next--rearranging-grade-items-in-there-respective-categories.png)
+
 
 ### Grade Item Settings
 

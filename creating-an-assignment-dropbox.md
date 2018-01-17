@@ -2,13 +2,13 @@
 
 The most commonly used Activities, Assignment Dropboxes allow students to submit assignments online. This is convenient for Instructors, as it eliminates the possibility of losing a student’s paper and as it enables students to submit their assignments immediately. It also connects to gradebook so students can see their grades once they are corrected.
 
-### Remember: Always turn editing on.
+##### Remember: Always turn editing on.
 
 ![](/assets/remember--always-turn-editing-on.png)
 
 Choose Assignment from the Activity menu. Then click "**Add**" at the bottom of the window.
 
-### Next, add details.
+##### Next, add details.
 
 ![](/assets/next--add-details.png)
 
@@ -21,7 +21,15 @@ The next page is entitled Adding a New Assignment.
 4. Be sure to add any neccessary attachments here.
    1. Attachments might include datasets, example submissions, or other resources that students need to complete the assignment.
 
-### Other options for your assignment dropbox.
+##### Edit 'Grade' settings.
+
+You can change the maximum grade to align with your marking rubric.
+
+Add the assignment to the appropriate 'Grade category' using the dropdown menu.
+
+![](/assets/Screen Shot 2018-01-17 at 11.18.53 AM.png)
+
+##### Other options for your assignment dropbox.
 
 You may set the parameters for your assignment dropbox using the following options. You can set the due date and cut off date, submission type, add the max grade and assign it to a category in your gradebook, etc.
 
