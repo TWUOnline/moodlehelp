@@ -2,7 +2,7 @@
 
 There are four key steps to setting up your gradebook in Moodle.
 
-1. Make sure your aggregation method is 'Natural'.
+1. Make sure your aggregation method is set to 'Natural'.
 2. Add all of the categories that you need in alignment with your syllabus.
 3. Add all of the assignments and manual grade items to their appropriate categories \(see \#2\).
 4. Adjust the weights of each of the categories and individual grade items to total 100%.
