@@ -1,6 +1,13 @@
 # Gradebook Setup
 
-### Check the Aggregation method
+There are four key steps to setting up your gradebook in Moodle.
+
+1. Make sure your aggregation method is 'Natural'.
+2. Add all of the categories that you need in alignment with your syllabus.
+3. Add all of the assignments and manual grade items to their appropriate categories \(see \#2\).
+4. Adjust the weights of each of the categories and individual grade items to total 100%.
+
+### 1. Make sure your aggregation method is set to 'Natural'
 
 ##### In your 'Administration' block, click 'Gradebook setup.
 
@@ -14,7 +21,7 @@ You may see some items in your course from the previous cohort os students, but 
 
 ![](/assets/Screen Shot 2018-01-17 at 12.00.44 PM.png)
 
-### Create Your Categories
+### 2.  Create Your Categories
 
 ##### Scroll to the bottom of Gradebook Setup page and click **"Add Category"**.
 
@@ -31,7 +38,7 @@ Click "**Save Changes"**
 
 ![](/assets/Screen Shot 2018-01-17 at 11.04.53 AM.png)
 
-### Add _all_ of your Assignments.
+### 3a. Add _all_ of your Assignments.
 
 Creating an 'Assignment' in Moodle does several things:
 
@@ -48,7 +55,7 @@ Note that the assignments are currently weighted proportionally to their 'Max gr
 
 ![](/assets/Screen Shot 2018-01-17 at 11.27.59 AM.png)
 
-### Add _all_ of your manual grade items.
+### 3b. Add _all_ of your manual grade items.
 
 A manual grade item is an assessment that students do not submit through Moodle. It may be an exam grade, or participation, or maybe an in-class presentation.
 
@@ -63,7 +70,7 @@ Now, I have added another category for mid-term exams with two midterms, and a F
 
 ![](/assets/Screen Shot 2018-01-17 at 11.39.22 AM.png)
 
-### Adjust 'Category' weights.
+### 4. Adjust 'Category' weights.
 
 Select the checkboxes for each of the categories and individual manual grade items that constitute your final grade. In the example below, I have chosen the 'Assignments', and 'Mid-term Exams' categories along with the 'Final Exam'.
 
