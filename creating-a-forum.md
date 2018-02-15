@@ -25,13 +25,11 @@ Supply a **Name** for the forum.
 
 4. Once you have adjusted the settings, click **Save and display** to view the created forum.
 
-1. Now that you have created a forum, you can add a **Discussion Topic**. Adding a Discussion Topic allows students to participate in the forum. Without a Discussion Topic, students will see an empty forum. To add a new discussion topic:
+5. Now that you have created a forum, you can add a **Discussion Topic**. Adding a Discussion Topic allows students to participate in the forum. Without a Discussion Topic, students will see an empty forum. To add a new discussion topic:
 
-2. Click **Add a new discussion topic**.
+6. Click **Add a new discussion topic**.
 
-3. Supply a **Subject** and a **Message**, then click **Post to forum**. Students can also add new discussion topics.
-
-##### 
+7. Supply a **Subject** and a **Message**, then click **Post to forum**. Students can also add new discussion topics.
 
 ---
 
