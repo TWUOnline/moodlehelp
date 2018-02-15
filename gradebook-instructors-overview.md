@@ -1,5 +1,4 @@
-The Moodle Gradebook is a valuable but complex tool. Because of its complexity, eSupport recommends that instructors set up a Gradebook training session for a personalized tutorial. This is especially important for first time users. See the bottom of this page for information on contacting eSupport.  
-  
+The Moodle Gradebook is a valuable but complex tool. Because of its complexity, eSupport recommends that instructors set up a Gradebook training session for a personalized tutorial. This is especially important for first time users. See the bottom of this page for information on contacting eSupport.
 
 ### Basic Details
 
@@ -9,22 +8,17 @@ After creating all the assignments, forums etc for your course, it is now time t
 
 **NOTE: If you desire Gradebook to reflect grades accurately, please ensure that the 'Weights' are equal to 100%.**
 
-
 ### Accessing Gradebook Options
 
 On your course page, on your Administration block you can select **Grades** or **Gradebook setup.**
 
 ![](/assets/accessing-gradebook-options.png)
 
-  
-
 ### NOTE:
 
 There are two views that a most important to be aware of:
 
 ![](/assets/note-.png)
-
-
 
 ### To Access additional instructions on Gradebook Setup and Grader Report
 
@@ -35,7 +29,9 @@ Select the following links:
 [Grader Report](https://trinitywestern.teamdynamix.com/TDClient/KB/ArticleDet?ID=30859)
 
 ##### 
+
 ---
+
 ##### For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
