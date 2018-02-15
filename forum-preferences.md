@@ -6,17 +6,15 @@
 
 ##### Under ‘User Account’ select ‘Forum Preferences’.
 
-  
 ![](/assets/Viewer2.jpg)
 
 ##### Under ‘User Account’ and select ‘Forum Preferences’.
 
-  
 ![](/assets/Viewer3.jpg)
 
 ##### Choose the Forum Tracking drop down menu. Select ‘Yes: highlight new posts for me”. Save changes.
 
-#####  ![](/assets/Viewer4.jpg)
+##### ![](/assets/Viewer4.jpg)
 
 Now your new forum posts should be highlighted.
 
