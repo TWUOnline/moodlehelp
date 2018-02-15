@@ -2,17 +2,21 @@
 
 ##### Below are instructions on how to alter forum preferences.
 
-1. Click on your user profile on the top right hand corner.  
-   ![](/assets/Viewer.jpg)
+##### Click on your user profile on the top right hand corner. ![](/assets/Viewer.jpg)
 
-2. Under ‘User Account’ select ‘Forum Preferences’.  
-   ![](/assets/Viewer2.jpg)
+##### Under ‘User Account’ select ‘Forum Preferences’.
 
-3. Under ‘User Account’ and select ‘Forum Preferences’.  
-   ![](/assets/Viewer3.jpg)
+  
+![](/assets/Viewer2.jpg)
 
-4. Choose the Forum Tracking drop down menu. Select ‘Yes: highlight new posts for me”. Save changes.  
-   ![](/assets/Viewer4.jpg)
+##### Under ‘User Account’ and select ‘Forum Preferences’.
+
+  
+![](/assets/Viewer3.jpg)
+
+##### Choose the Forum Tracking drop down menu. Select ‘Yes: highlight new posts for me”. Save changes.
+
+#####  ![](/assets/Viewer4.jpg)
 
 Now your new forum posts should be highlighted.
 
