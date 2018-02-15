@@ -1,11 +1,8 @@
-Note that these instructions can apply to all content on Moodle \(Forums, Dropbox, File, Pages etc.\)  
-
+## Note that these instructions can apply to all content on Moodle \(Forums, Dropbox, File, Pages etc.\)
 
 ### Option 1 - Separate Groups \(in a Single Forum\)
 
 The most useful way to incorporate Groups into the forums is to turn on "Separate groups" mode once groups and forum has been created. This limits students to see only the content connected with their particular group. This option gives students the ability to discuss more personal matters, or to plan for a group project without their ideas being seen by others.
-
-  
 
 To incorporate this type of Group:
 
@@ -17,8 +14,7 @@ Scroll to the forum in which you would like to incorporate Groups, and find the 
 
 ![](/assets/option-1---separate-groups--in-a-single-forum-.png)
 
-
-###  
+### 
 
 ### Option 2 - Restricting Access
 
@@ -33,8 +29,8 @@ Make sure that editing is turned on, and begin the creation of your forum by goi
 From the list that pops up, select "Forum" and then click "Add."
 
 ![](/assets/option-2---restricting-access.png)
- 
-###  
+
+### 
 
 ### Enter all the necessary details
 
@@ -42,9 +38,7 @@ There is a number of menu options, scroll down to "Restrict access".
 
 ![](/assets/enter-all-the-necessary-details.png)
 
-  
-
-###  
+### 
 
 ### There are a number of options to restrict content.
 
@@ -54,9 +48,7 @@ Choose either the "Group" or "Grouping" option.
 
 ![](/assets/there-are-a-number-of-options-to-restrict-content-.png)
 
-  
-
-###  
+### 
 
 ### Once the option is selected.
 
@@ -68,9 +60,7 @@ Students in the group you have specified will see the content, if not you can se
 
 ![](/assets/once-the-option-is-selected.png)
 
-  
-
-###  
+### 
 
 ### Option 3 - Visible Groups
 
@@ -85,6 +75,7 @@ Scroll to the forum in which you would like to incorporate Groups, and find the 
 ![](/assets/option-3---visible-groups.png)
 
 ---
+
 ##### For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
