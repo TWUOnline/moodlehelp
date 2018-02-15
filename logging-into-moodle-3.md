@@ -2,9 +2,6 @@
 
 ### Go to learn.twu.ca and enter your TWUPass credentials
 
-  
-
-
 ### You will land on your Dashboard page in Moodle.
 
 Please confirm that you have links for all of your Fall 2017 courses under 'Course overview'.
@@ -12,6 +9,8 @@ Please confirm that you have links for all of your Fall 2017 courses under 'Cour
 If you do not see all of your courses, please submit a [helpdesk ticket](https://trinitywestern.teamdynamix.com/TDClient/Requests/TicketRequests/TicketForm.aspx?ID=hRv7mA08DtA_).
 
 ![](/assets/course overview.png)
+
+---
 
 ##### For Further Assistance
 

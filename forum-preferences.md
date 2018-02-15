@@ -2,6 +2,8 @@
 
 ##### Below are instructions on how to alter forum preferences.
 
+##### 
+
 ##### Click on your user profile on the top right hand corner. ![](/assets/Viewer.jpg)
 
 ##### Under ‘User Account’ select ‘Forum Preferences’.
