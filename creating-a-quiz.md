@@ -14,8 +14,6 @@ Supply a name for your quiz, and enter a description if you wish
 
 ![](/assets/part-1--creating-a-quiz.png)
 
-### 
-
 ### Other options to utilize.
 
 There are several options that can be utilized in the creation of your quiz. For example, the "**Timing**" options allow you to set a start and end date for quiz availability, as well as to set a time limit. The "**Grade**" options allow you to set a limit on allowed attempts.
