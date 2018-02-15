@@ -44,7 +44,7 @@ This might be helpful if maybe you made a mistake and added the wrong role to a 
 
 ## Role Descriptions
 
-![](images/assigning-roles/role-descriptions.png)
+![](/assets/Capture 3.JPG)
 
 ---
 
