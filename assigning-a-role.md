@@ -6,7 +6,7 @@ Professors now have the option of assigning roles such as Teacher Assistant or N
 
 Select the 'Users' option in your Administration block, next select the 'Enrolled Users' option. **Note: Your Administration block maybe located on the right hand side of your page or it maybe docked on the left side, so location may vary for you the user :-\). **
 
-![](/assets/Capture 1.JPG)
+![](/assets/in-your-administration-block--click--users--then--enrolled-users-.png)
 
 ## Now, your window should open to a page with a list of the students and persons enrolled in your course.
 
@@ -18,23 +18,17 @@ It should look something like this.
 4. The option allows you to search for users who may already be enrol, or maybe check to see if someone might be missing from enrollment. 
 5. This shows the first name, last name and contact information. 
 
-You have a couple options to assign the roles of Manager, Non-editing teacher, Teacher's Assistant, Non-Grading Teacher's Assistant and Teacher. The permissions and limitiations for this role is listed below.
-
-
-
-
+You have a couple options to assign the roles of Manager, Non-editing teacher, Teacher's Assistant, Non-Grading Teacher's Assistant and Teacher. The permissions and limitiations for this role is listed below.![](/assets/now--your-window-should-open-to-a-page-with-a-list-of-the-students-and-persons-enrolled-in-your-cour.png)
 
 ## Okay back to assigning roles \(Option 1: If you have to add the user to your course\)
 
 Once you have determined that the user you would like to assign a role is not added to the course select the 'Enrol Users' option. It should look something like this. You have to option of assigning the role of Manager,  Non-editing teacher, Teacher's Assistant, Non-Grading Teacher's Assistant and Teacher. Assign the role you wish the user to have and then you want to search their name. Then select 'Enrol'. Once you are done and you've search and identified the roles for your desired users, select 'Finish Enrolling User'
 
-![](images/assigning-roles/okay-back-to-assigning-roles--option-1--if-you-have-to-add-the-user-to-your-course--.png)
+![](/assets/okay-back-to-assigning-roles--option-1--if-you-have-to-add-the-user-to-your-course--.png)
 
 ## Congrats you've completed option one sucessfully.
 
 Now, lets say you're interested in option 2.
-
-![](images/assigning-roles/congrats-you-ve-completed-option-one-sucessfully-.png)
 
 ## Option two:
 
