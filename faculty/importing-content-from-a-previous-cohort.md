@@ -1,6 +1,6 @@
-### Importing content from a previous cohort
+### Importing Content from a Previous Cohort
 
-Navigate to the new container for your course.
+Navigate to the new site for your course.
 
 #### Click 'Import' in the Administration block.
 
@@ -10,7 +10,7 @@ Navigate to the new container for your course.
 
 ![](/assets/Screen Shot 2017-12-18 at 2.09.45 PM.png)
 
-#### Click 'Jump To Final Step'.
+#### Click 'Jump To Final Step' or 'Next'.
 
 If you choose 'Next', you can select which items you want to import from the course.
 
@@ -21,6 +21,4 @@ If you choose 'Next', you can select which items you want to import from the cou
 Don't forget to update your syllabus and assignment dues dates!
 
 ![](/assets/Screen Shot 2017-12-18 at 2.11.02 PM.png)
-
-
 
