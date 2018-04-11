@@ -18,7 +18,6 @@
 * [Adding Documents and Page Resources to Moodle](adding-documents-and-page-resources-to-moodle.md)
 * [Adding Turnitin Assignments](adding-turnitin-assignments.md)
 * [Assigning a Role](assigning-a-role.md)
-* [Backup from MyCourses](backup-from-mycourses.md)
 * [Creating an Assignment Dropbox](creating-an-assignment-dropbox.md)
 * [Creating a Forum](creating-a-forum.md)
 * [Creating a Meta-Course](creating-a-meta-course.md)
@@ -26,9 +25,16 @@
 * [Creating Chat Rooms](creating-chat-rooms.md)
 * [Creating Groups and Groupings](creating-groups-and-groupings.md)
 * [Importing content from a previous cohort](faculty/importing-content-from-a-previous-cohort.md)
-* [Restore a course from MyCourses](restore-a-course-from-mycourses.md)
 * [Unenrolling Students](unenrolling-students.md)
 * [Using Groups \(Separate groups and Restricted Access Content\)](using-groups-separate-groups-and-restricted-access-content.md)
+* [Moving Content in Moodle](faculty/moving-content-in-moodle.md)
+
+## Resources for MyCourses Shutdown
+
+* [Backup from MyCourses](backup-from-mycourses.md)
+* [Uploading Backup from MyCourses](uploading-backup-from-mycourses.md)
+* [Downloading Backup to Moodle](downloading-backup-to-moodle.md)
+* [Restore a course from MyCourses](restore-a-course-from-mycourses.md)
 
 ## GRADEBOOK
 
@@ -37,6 +43,8 @@
 * [Gradebook Setup](gradebook-setup.md)
 * [Grading all responses to a short or long answer quiz](grading-all-responses-to-a-short-or-long-answer-quiz.md)
 * [Grader Report](grader-report.md)
+* Downloading Gradebook
+* Display Settings for Gradebook
 
 ## STUDENTS
 
