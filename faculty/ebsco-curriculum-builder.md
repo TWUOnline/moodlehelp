@@ -1,6 +1,6 @@
 ### EBSCO Curriculum Builder
 
-The EBSCO Curriculum Builder is a Moodle plugin that allows you to create reading lists directly inside your Moodle course site by searching the TWU Library databases and including links to readings and other resources and then sharing the list with your students as an item in your course.
+The EBSCO Curriculum Builder is a Moodle plugin that allows you to create reading lists directly inside your Moodle course site by searching the TWU Library databases and including links to readings and other resources and then sharing the list with your students as an item in your course. 
 
 This means that you don't have to upload reams of (possibly legal) PDFs to Moodle _**and**_ that the Library will be able to see which resources are being utilized well and allocate their budget accordingly.
 
