@@ -28,6 +28,7 @@
 * [Importing content from a previous cohort](faculty/importing-content-from-a-previous-cohort.md)
 * [Unenrolling Students](unenrolling-students.md)
 * [Using Groups \(Separate groups and Restricted Access Content\)](using-groups-separate-groups-and-restricted-access-content.md)
+* [ Setting Up the Attendance Activity](faculty/setting-up-the-attendance-plugin.md)
 * [Moving Content in Moodle](faculty/moving-content-in-moodle.md)
 
 ## Resources for MyCourses Shutdown
