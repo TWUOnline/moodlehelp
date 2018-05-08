@@ -20,6 +20,7 @@
 * [Assigning a Role](assigning-a-role.md)
 * [Creating an Assignment Dropbox](creating-an-assignment-dropbox.md)
 * [Creating a Forum](creating-a-forum.md)
+* [Ebsco Curriculum Builder](faculty/ebsco-curriculum-builder.md)
 * [Creating a Meta-Course](creating-a-meta-course.md)
 * [Creating a Quiz](creating-a-quiz.md)
 * [Creating Chat Rooms](creating-chat-rooms.md)
