@@ -1,24 +1,24 @@
-### Importing Content from a Previous Cohort
+# Importing content from a previous cohort
 
 Navigate to the new site for your course.
 
-#### Click 'Import' in the Administration block.
+## Click 'Import' in the Administration block.
 
-![](/assets/Screen Shot 2017-12-18 at 1.59.51 PM.png)
+![](../.gitbook/assets/screen-shot-2017-12-18-at-1.59.51-pm.png)
 
-#### Use the search tool to find your previous course, select it, and click 'Continue'.
+## Use the search tool to find your previous course, select it, and click 'Continue'.
 
-![](/assets/Screen Shot 2017-12-18 at 2.09.45 PM.png)
+![](../.gitbook/assets/screen-shot-2017-12-18-at-2.09.45-pm.png)
 
-#### Click 'Jump To Final Step' or 'Next'.
+## Click 'Jump To Final Step' or 'Next'.
 
 If you choose 'Next', you can select which items you want to import from the course.
 
-![](/assets/Screen Shot 2017-12-18 at 2.10.36 PM.png)
+![](../.gitbook/assets/screen-shot-2017-12-18-at-2.10.36-pm.png)
 
-#### Click 'Continue' to go to your course.
+## Click 'Continue' to go to your course.
 
 Don't forget to update your syllabus and assignment dues dates!
 
-![](/assets/Screen Shot 2017-12-18 at 2.11.02 PM.png)
+![](../.gitbook/assets/screen-shot-2017-12-18-at-2.11.02-pm.png)
 
