@@ -34,7 +34,9 @@ You will need the zipped file when you upload your course to Moodle, so you may 
 
 ### You are now ready to restore your course in Moodle.
 
-## **NOTE: If your backup is larger that 256MB the backup will not sucessfully restore to Moodle. If your file is too big, try removing 'Course Files' from the back up or delete old content to free up additional space. Happy Restoring!**
+## **NOTE: If your backup is larger that 256MB the backup will not sucessfully restore to Moodle. If your file is too big, try removing 'Course Files, User Files and Site Files' from the back up or delete old content to free up additional space. Happy Restoring!**
+
+![](../.gitbook/assets/course-files-pic.JPG)
 
 [Click here for instructions.](https://trinitywestern.teamdynamix.com/TDClient/KB/ArticleDet?ID=32925)
 
