@@ -33,6 +33,7 @@
 * [Using Groups \(Separate groups and Restricted Access Content\)](faculty/using-groups-separate-groups-and-restricted-access-content.md)
 * [Setting Up the Attendance Activity](faculty/setting-up-the-attendance-activity.md)
 * [Moving Content in Moodle](faculty/moving-content-in-moodle.md)
+* [Setting 'User Report' Display](faculty/setting-user-report-display.md)
 
 ## Resources for MyCourses Shutdown
 
