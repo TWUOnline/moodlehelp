@@ -4,7 +4,7 @@ Professors now have the option of assigning roles such as Teacher Assistant or N
 
 ## First, you'll want to open your course.
 
-Select the 'Users' option in your Administration block, next select the 'Enrolled Users' option. **Note: Your Administration block maybe located on the right hand side of your page or it maybe docked on the left side, so location may vary for you the user :-\). **
+Select the 'Users' option in your Administration block, next select the 'Enrolled Users' option. **Note: Your Administration block maybe located on the right hand side of your page or it maybe docked on the left side, so location may vary for you the user :-\).** 
 
 ![](../.gitbook/assets/in-your-administration-block-click-users-then-enrolled-users.png)
 

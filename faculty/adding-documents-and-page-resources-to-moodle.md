@@ -2,7 +2,7 @@
 
 ## Part 1: Adding a Document
 
-** Adding documents to Moodle is a useful way to provide your students with forms, questionnaires, and other types of interactive resources that cannot be accessed by students on the internet \(see Part 2 for guidelines to adding other types of text content\). To learn how to add a document to a course, see the instructions below.**
+ **Adding documents to Moodle is a useful way to provide your students with forms, questionnaires, and other types of interactive resources that cannot be accessed by students on the internet \(see Part 2 for guidelines to adding other types of text content\). To learn how to add a document to a course, see the instructions below.**
 
 1. **Turn editing on** and scroll down to the section of the course in which you want to add a document.
 2. Click the 
@@ -58,7 +58,7 @@ The Search and Upload Option
 
 ## Part 2: Adding Page Resources
 
-** Adding documents to Moodle can be a helpful way to give your students access to various resources that relate to your course. However, not all resources need to be added to the course as documents. When a resource needs only to be read by a student, it is more beneficial to the student to add it in the form of a "Page Resource." This way, a student does not have to download a document every time they want to access a particular resource. The "Page Resource" function creates a new text page \(or blog like page\) within your course in which you can add text, pictures, videos and links. To create a page resource...**
+ **Adding documents to Moodle can be a helpful way to give your students access to various resources that relate to your course. However, not all resources need to be added to the course as documents. When a resource needs only to be read by a student, it is more beneficial to the student to add it in the form of a "Page Resource." This way, a student does not have to download a document every time they want to access a particular resource. The "Page Resource" function creates a new text page \(or blog like page\) within your course in which you can add text, pictures, videos and links. To create a page resource...**
 
 1. Turn editing on and scroll down to the section of the course in which you want to add the page resource.
 2. Click the "**Add an activity or resource**" button in the bottom right hand corner of the section.
