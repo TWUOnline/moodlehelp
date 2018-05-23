@@ -8,13 +8,13 @@ When editing anything in Moodle be sure to 'Turn Editing On'. Moving items in se
 
 ### Cross-sectional drag and drop is a bit different.
 
-If your course format is in 'Onetopic' you will need to adjust the Tab utilities fuction at the bottom of the page. With editing turn on, scroll to the bottom of the page till you see the 'Tab Edition Utilities' function, and disable 'Asynchronous edit actions'. 
+If your course format is in 'Onetopic' you will need to adjust the Tab utilities function at the bottom of the page. With editing turn on, scroll to the bottom of the page till you see the 'Tab Edition Utilities' function, and disable 'Asynchronous edit actions'. 
 
 ![](../.gitbook/assets/tab-utilities.JPG)
 
-### Yea, I know, who knew? 
+### Yea, we know, who knew? 
 
-This alters the icon from being a four directional arrow to a two directional arrow, which allows you to move content cross sectionally. 
+This alters the icon from being a four directional arrow to a two directional arrow, which allows you to move content cross-sectionally. 
 
 ![](../.gitbook/assets/2-arrow.JPG)
 
@@ -24,7 +24,7 @@ Once you've selected an item to reposition, the display may look like below. The
 
 ![](../.gitbook/assets/moving.JPG)
 
-### Content can now be placed any where within the course.
+### Content can now be placed anywhere within the course.
 
 Congrats!!! You are now feel free to move about the cabin. 
 
