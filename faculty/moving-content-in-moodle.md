@@ -6,7 +6,7 @@ When editing anything in Moodle be sure to 'Turn Editing On'. Moving items in se
 
 ![](../.gitbook/assets/4-arrow.JPG)
 
-### Cross-sectional drag and drop is a bit different.
+### Moving cross-sectionally is a bit different.
 
 If your course format is in 'Onetopic' you will need to adjust the Tab utilities function at the bottom of the page. With editing turn on, scroll to the bottom of the page till you see the 'Tab Edition Utilities' function, and disable 'Asynchronous edit actions'. 
 
