@@ -34,6 +34,7 @@
 * [Setting Up the Attendance Activity](faculty/setting-up-the-attendance-activity.md)
 * [Reordering Content in Moodle](faculty/moving-content-in-moodle.md)
 * [Setting 'User Report' Display](faculty/setting-user-report-display.md)
+* [Adding Extra Credit to Gradebook](faculty/adding-extra-credit-to-gradebook.md)
 
 ## Resources for MyCourses Shutdown
 
