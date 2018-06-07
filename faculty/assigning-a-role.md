@@ -13,7 +13,7 @@ Select the 'Users' option in your Administration block, next select the 'Enrolle
 It should look something like this.
 
 1. This option allows you to enrol users.
-2. This shows the role of the user, but that X can be sued to alter the 'Student' role of the user in this course. 
+2. This shows the role of the user, but that X can be used to alter the 'Student' role of the user in this course. 
 3. This option can add addional roles if a user is already enrolled. 
 4. The option allows you to search for users who may already be enrol, or maybe check to see if someone might be missing from enrollment. 
 5. This shows the first name, last name and contact information. 
