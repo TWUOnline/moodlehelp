@@ -10,7 +10,7 @@ The default setting is an Aggregate type "**No Ratings"**
 
 ![](../.gitbook/assets/capture13.JPG)
 
-You want to change the aggregation appropriately for your gradebook. Next, choose the appropriate type, usually "Point" but you may also choose "Scale" if desired. Enter the desired max grade. You may also place date restrictions on the forum as well. 
+You'll want to change the aggregation appropriately for your gradebook, feel free to investigate they appropriate type for you by selecting the ? next to each setting. Next, choose the appropriate "Scale" type, usually "Point" but you may also choose "Scale" if desired. Enter the desired max grade. You may also place date restrictions on the forum as well. 
 
 ![](../.gitbook/assets/capture16.JPG)
 
