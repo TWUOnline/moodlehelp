@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/from-your-empty-course-site-in-moodle-click-restore-in-the-administration-block.png)
 
-## Drag the zipped file \(this file must end in .zip\) to the area indicated in Moodle, then click 'Restore'.
+## Drag the zipped file \(this file must end in .zip\) to the area indicated in Moodle, once it is fully uploaded then click 'Restore'.
 
 Alternately, you can click 'Choose a file' to use the file picker.
 
