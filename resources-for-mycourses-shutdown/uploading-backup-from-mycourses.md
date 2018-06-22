@@ -8,5 +8,5 @@ Be sure to "**Save File**" rather than "**Open File**". Though your computer wil
 
 ![](../.gitbook/assets/cap-2.JPG)
 
-Thats it, the uploaded file most likely will be stored in you 'Download' folder. Feel free to follow the instructions in the artile "Restore a Course from MyCourses" for adding content to your Moodle course. 
+That's it, the uploaded file most likely will be stored in your 'Download' folder. Feel free to follow the instructions in the article "**Restore a Course from MyCourses**" for adding this content to your Moodle course. 
 

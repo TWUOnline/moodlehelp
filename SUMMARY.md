@@ -40,7 +40,6 @@
 
 * [Backup from MyCourses](resources-for-mycourses-shutdown/backup-from-mycourses.md)
 * [Uploading Backup from MyCourses](resources-for-mycourses-shutdown/uploading-backup-from-mycourses.md)
-* [Downloading Backup to Moodle](resources-for-mycourses-shutdown/downloading-backup-to-moodle.md)
 * [Restore a course from MyCourses](resources-for-mycourses-shutdown/restore-a-course-from-mycourses.md)
 
 ## GRADEBOOK
