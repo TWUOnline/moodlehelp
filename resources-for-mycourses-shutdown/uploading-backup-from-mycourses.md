@@ -1,6 +1,6 @@
 # Uploading Backup from MyCourses
 
-So you have completed your backup and it within the limit of 256MB. Your next step is to upload your backup to your computer, follow the next steps.
+### Congrats, so you've now completed your MyCourses backup and its within the limit of 256MB. Your next step is to upload your backup to your computer, follow the next steps.
 
 ![](../.gitbook/assets/cap-1.JPG)
 
