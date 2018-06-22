@@ -34,17 +34,17 @@ Now, lets say you're interested in option 2.
 
 ## Option two:
 
-This might be helpful if maybe you made a mistake and added the wrong role to a user or you wanted to assign multiple roles to a user. This option is for you. Below our user has Teacher role, but what we really want to give is Non-editing Teacher role. So we can simply select the X next to their role to remove that role from the user. To add a different role simply select the 'Assign Role' character indicated below. And choose the appropriate option.
+This might be helpful if maybe you made a mistake and added the wrong role to a user or you wanted to assign multiple roles to a user, then his option is for you. Below our user has Teacher role, but what we really want to give is Non-editing Teacher role. So we can simply select the X next to their role to remove that role from the user. To add a different role simply select the 'Assign Role' character indicated below. And choose the appropriate option.
 
-![](https://github.com/twonline/moodlefaq/tree/e3caad8f5cd894e5f6efa273afb67ea25cde4d85/images/assigning-roles/option-two-.png)
 
-## Congrats! You did option two.
 
-### Note: If your user is already added to your course **Option One** will not work as the course will already have the user enrolled
+![](../.gitbook/assets/capture12.JPG)
 
-![](https://github.com/twonline/moodlefaq/tree/e3caad8f5cd894e5f6efa273afb67ea25cde4d85/images/assigning-roles/congrats--you-did-option-two-.png)
+## That's it! You did option two.
 
-## Role Descriptions
+### Note: If your user is already added to your course **Option One** will not work as the course will already have the user enrolled. In which case option two is your next step. You have the choice of assigning any of the roles below. However, please refrain from assigning student roles unless you have notified us at eSupport.
+
+## Role Options
 
 ![](../.gitbook/assets/capture-3.JPG)
 
