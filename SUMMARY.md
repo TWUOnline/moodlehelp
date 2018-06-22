@@ -22,6 +22,7 @@
 * [Assigning a Role](faculty/assigning-a-role.md)
 * [Creating an Assignment Dropbox](faculty/creating-an-assignment-dropbox.md)
 * [Creating a Forum](faculty/creating-a-forum.md)
+* [Setting up Grading for Forums](faculty/setting-up-grading-for-forums.md)
 * [Ebsco Curriculum Builder](faculty/ebsco-curriculum-builder.md)
 * [Creating a Meta-Course](faculty/creating-a-meta-course.md)
 * [Creating a Quiz](faculty/creating-a-quiz.md)
@@ -35,7 +36,6 @@
 * [Reordering Content in Moodle](faculty/moving-content-in-moodle.md)
 * [Setting 'User Report' Display](faculty/setting-user-report-display.md)
 * [Adding Extra Credit to Gradebook](faculty/adding-extra-credit-to-gradebook.md)
-* [Setting up Grading for Forums](faculty/setting-up-grading-for-forums.md)
 
 ## Resources for MyCourses Shutdown
 
