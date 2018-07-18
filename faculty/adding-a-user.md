@@ -15,7 +15,7 @@ Users with the following roles can add users to Moodle courses.
 
 ### Teachers can enrol:
 
-* Teacher
+* Teacher 
 * Non-editing teacher
 * Full TA
 * Non-editing TA
