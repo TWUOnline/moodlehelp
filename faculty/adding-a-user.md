@@ -1,6 +1,6 @@
 # Adding a User
 
-Students can only be enroled in courses by the Registrar's Office.
+Students can only be enrolled in courses by the Registrar's Office.
 
 Users with the following roles can add users to Moodle courses.
 
@@ -15,7 +15,7 @@ Users with the following roles can add users to Moodle courses.
 
 ### Teachers can enrol:
 
-* Teacher 
+* Teacher
 * Non-editing teacher
 * Full TA
 * Non-editing TA
@@ -23,7 +23,7 @@ Users with the following roles can add users to Moodle courses.
 
 No other users can enrol other users.
 
-We cannot create accounts for users who are not members of the TWU Community.
+NOTE: We cannot create accounts for users who are not members of the TWU Community.
 
 ## Select the 'Users' option in your Administration block, then select the 'Enrolled Users' option.
 
@@ -33,17 +33,15 @@ Note: Your Administration block maybe located on the right hand side of your pag
 
 ## Click 'Enrol Users'
 
-![](../.gitbook/assets/now-your-window-should-open-to-a-page-with-a-list-of-the-students-and-persons-enrolled-in-your-cour.png)
+![](../.gitbook/assets/adding-a-user-2.png)
 
 ## Choose a role from the dropdown menu and use the search box to find the user.
 
-## Click 'Enrol' beside the user's name, and then 'Finish enrolling users'.
+You may desire to add further stipulation to the user's enrollment.
 
-Teachers can only enrol users into the role of 'Teacher', 'Non-Editing teacher', or one of the three 'Teaching Assistant' options.
+## Click 'Enrol' once the user has been added.
 
-Students must be enrolled through the registrar.
-
-![](../.gitbook/assets/okay-back-to-assigning-roles-option-1-if-you-have-to-add-the-user-to-your-course.png)
+![](../.gitbook/assets/adding-a-user-3.png)
 
 ### For Further Assistance
 
