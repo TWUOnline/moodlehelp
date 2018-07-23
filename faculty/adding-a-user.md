@@ -33,7 +33,7 @@ Note: Your Administration block maybe located on the right hand side of your pag
 
 ## Click 'Enrol Users'
 
-![](../.gitbook/assets/adding-a-user-2.png)
+![](/assets/adding-a-user-2.png)
 
 ## Choose a role from the dropdown menu and use the search box to find the user.
 
@@ -41,7 +41,7 @@ You may desire to add further stipulation to the user's enrollment.
 
 ## Click 'Enrol' once the user has been added.
 
-![](../.gitbook/assets/adding-a-user-3.png)
+![](/assets/adding-a-user-3.png)
 
 ### For Further Assistance
 
