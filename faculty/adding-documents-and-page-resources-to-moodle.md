@@ -7,7 +7,7 @@
 1. **Turn editing on** and scroll down to the section of the course in which you want to add a document.
 2. Click the
 
- ![](../.gitbook/assets/adding-documents-1.png)
+ ![](/assets\adding-documents-1.png)
 
  button in the bottom right hand corner of the section.
 
