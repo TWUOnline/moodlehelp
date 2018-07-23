@@ -3,13 +3,14 @@
 To create a forum, please take the following steps:
 
 **Turn editing on** and scroll down to the section of the course in which you want to add a document.
+
 Click the ![](/assets/adding-documents-1.png)
 
 Choose **Forum** and select **Add**
 
 ![](/assets/assets/forum-1.png)
 
-## The next page to which you will be redirected automatically is entitled **Adding a new Forum**. On this page, you can select various options for your forum, follow each menu item and choose settings appropriately. Feel free to access details by selecting the question mark icon next to each setting. See the steps below for the guidelines to creating a basic forum:
+The next page to which you will be redirected automatically is entitled **Adding a new Forum**. On this page, you can select various options for your forum, follow each menu item and choose settings appropriately. Feel free to access details by selecting the question mark icon next to each setting. See the steps below for the guidelines to creating a basic forum:
 
 Supply a **Name** for the forum.
 
