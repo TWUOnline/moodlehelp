@@ -33,7 +33,7 @@ You may also add the assignment to the appropriate 'Grade category' using the dr
 
 You may set the parameters for your assignment dropbox using the following options. You can set the due date and cut off date, submission type, add the max grade and assign it to a category in your gradebook, etc.
 
-**Note** that because you must select a time from the 24 hour clock, it is often convenient to make an assignment due at 23:55, or 11:55PM, on the date that it is due to avoid due date mix ups for students.
+**Note** you must select a time from the 24 hour clock, it is often convenient to make an assignment due at 23:55, or 11:55PM, on the date that it is due to avoid due date mix ups for students.
 
 Once options are selected click **Save and return to course or display** to preview your drop box.
 
