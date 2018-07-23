@@ -13,35 +13,35 @@
 
 3. From the list that appears, scroll down to the **Resources** heading and select **File**.
 
-![](../.gitbook/assets/adding-documents-2.png)
+![](/assets/adding-documents-2.png)
 
 1. Provide a name for your document. Note: The name that you provide will appear on your course homepage.
-2. Next,**Select Files** heading and browse for a file by selecting the ![](../.gitbook/assets/adding-documents-3.png) icon in the left hand corner, or there is also the option of dragging and dropping the file into the box provided.
+2. Next,**Select Files** heading and browse for a file by selecting the ![](/assets/adding-documents-3.png) icon in the left hand corner, or there is also the option of dragging and dropping the file into the box provided.
 
-![](../.gitbook/assets/adding-documents-4.png)
+![](/assets/adding-documents-4.png)
 
 
 ##The Search and Upload Option
 
-![](../.gitbook/assets/adding-documents-3.png)
+![](/assets/adding-documents-3.png)
 
  A pop-up window will appear;
 
-![](../.gitbook/assets/adding-documents-5.png) from the list on the left hand side, select **Upload a file**.
+![](/assets/adding-documents-5.png) from the list on the left hand side, select **Upload a file**.
 
 Browse for the file on your computer, select it, and then select
 
-![](../.gitbook/assets/adding-documents-6.png)
+![](/assets/adding-documents-6.png)
 
 Your newly uploaded file will appear as an icon as pictured below.
 
-![](../.gitbook/assets/assets/adding-documents-7.png)
+![](/assets/assets/adding-documents-7.png)
 
 1. Alternatively, you can **drag** a file from your desktop or a folder on your computer into the box which reads **"You can drag and drop files here to add them"**
 
 To do this, click on a file from your computer and hold it down, while dragging it to the aforementioned box. Let go of the document once you are hovering over the box. Your document should then appear as an icon within that box.
 
-   ![](../.gitbook/assets/adding-documents-8.gif)
+   ![](/assets/adding-documents-8.gif)
 
 2. Once you have uploaded your document, and entered other options you desire, select the **Save and return to course** button at the bottom of the page. The document will now be accessible to students through the course homepage.
 
@@ -58,7 +58,7 @@ To do this, click on a file from your computer and hold it down, while dragging 
 4. Provide a name for your page resource. The name that you provide will appear on your course homepage.
 5. In the **Content** section, you can paste the text that you would normally have posted in the form of a document. You can copy and paste materials from documents into this page, or you can create your own content. You can also provide other kinds of resources, such as documents, images, videos or a link to a website.
 
-![](../.gitbook/assets/page-content.png)
+![](/assets/page-content.png)
 
 Finally, **Save & Display**
 
