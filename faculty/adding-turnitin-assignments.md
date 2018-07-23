@@ -5,17 +5,17 @@ Please note: _**Turnitin.com cannot and does not detect plagiarism.**_ It is a m
 ## Remember: Always turn editing on.
 
 Your next task is to add an activity or resource.
-![](../.gitbook/assets/adding-documents-1.png)
+![](/assets/adding-documents-1.png)
 
 Choose Turnitin Assignment 2 from the Activity menu. Then click **Add**.
 
-![](../.gitbook/assets/turnitin-1.png)
+![](/assets/turnitin-1.png)
 
 ## Next, add details. There are many options to choose from, the most important settings are in General and Assignment Part 1, these important sections are marked by red exclamation marks.
 
-![](../.gitbook/assets/turnitin-2.png)
+![](/assets/turnitin-2.png)
 
-![](../.gitbook/assets/turnitin-3.png)
+![](/assets/turnitin-3.png)
 
 
 ## Other Settings in Turnitin.
@@ -26,7 +26,7 @@ You may set the parameters for your assignment dropbox using the following optio
 
 Once options are selected click **Save and return to course or display** to preview your drop box.
 
-![](../.gitbook/assets/turnitin-4.png)
+![](/assets/turnitin-4.png)
 
 ## For Further Assistance
 

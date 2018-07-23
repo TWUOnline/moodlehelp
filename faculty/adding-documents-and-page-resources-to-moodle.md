@@ -21,7 +21,7 @@
 ![](/assets/adding-documents-4.png)
 
 
-##The Search and Upload Option
+## The Search and Upload Option
 
 ![](/assets/adding-documents-3.png)
 
