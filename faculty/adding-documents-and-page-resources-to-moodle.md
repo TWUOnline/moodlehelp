@@ -5,7 +5,7 @@
  **Adding documents to Moodle is a useful way to provide your students with forms, questionnaires, and other types of interactive resources that cannot be accessed by students on the internet \(see Part 2 for guidelines to adding other types of text content\). To learn how to add a document to a course, see the instructions below.**
 
 1. **Turn editing on** and scroll down to the section of the course in which you want to add a document.
-2. Click the
+2. Click the/
 
  ![](../.gitbook/assets/adding-documents-1.png)
 
