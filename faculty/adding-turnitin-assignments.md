@@ -4,6 +4,7 @@ Please note: _**Turnitin.com cannot and does not detect plagiarism.**_ It is a m
 
 ## Remember: Always turn editing on.
 
+Your next task is to add an activity or resource.
 ![](../.gitbook/assets/adding-documents-1.png)
 
 Choose Turnitin Assignment 2 from the Activity menu. Then click **Add**.
