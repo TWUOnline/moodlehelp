@@ -83,6 +83,8 @@ Select the appropriate group name from the 'Potential members' column on the rig
 
 Click "Back to Groupings" when you have finished, and repeat the previous step for the remaining "Groupings."
 
+![](/assets/create-groups-15.png)
+
 Congrats, this task is now complete, you are now free to assign tasks to specific groups.
 
 ### For Further Assistance
