@@ -8,49 +8,46 @@ This means that you don't have to upload reams of \(possibly illegal\) PDFs to M
 
 These instructions presume that you are logged into your course site in Moodle and have turned editing on.
 
-## Add the Tool
+## Add the Resource
 
 ### 1. Click 'Add an activity or resource'.
 
-![](/assets/add-activity-resource.png)
+![](/assets/ebsco-resource-1.png)
 
 ### 2. Choose 'EBSCO Curriculum Builder' and click 'Add'.
 
-![](/assets/currbuilder.png)
+![](/assets/ebsco-resource-2.png)
 
 ### 3. Provide a name and click 'Show more' to add a description.
 
-![](/assets/showmore.png)
+![](/assets/ebsco-resource-3.png)
 
-![](/assets/description.png)
+### 4. Scroll down and select 'Save and display'
 
-### 4. Scroll down and click 'Save and display'
 
-![](/assets/save.png)
-
-## Create your List
+## To create your List
 
 ### 5. Enter a search term \(keyword, author or title\) and click 'Search'.
 
-![](/assets/search.png)
+![](/assets/ebsco-resource-4.png)
 
 ### 6. Use the tools on the left side of the page to refine your search and click 'Add to Reading List' when you find the resource.
 
-![](/assets/refine.png)
+![](/assets/ebsco-resource-5.png)
 
 #### Repeat Steps 5 and 6 as necessary.
 
 ### 7. Scroll to the top of the search box and click 'See Current Reading List'.
 
-![](/assets/readinglist.png)
+![](/assets/ebsco-resource-6.png)
 
 ### 8. Use the grey bar to drag items into a different order.
 
-![](/assets/drag.png)
+![](/assets/ebsco-resource-7.png)
 
 ### 9. Organize your list and add web or print resources.
 
-![](/assets/organize.png)
+![](/assets/ebsco-resource-8.png)
 
 #### For other ideas, see the video below.
 
