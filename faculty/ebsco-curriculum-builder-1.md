@@ -49,6 +49,11 @@ These instructions presume that you are logged into your course site in Moodle a
 
 ![](/assets/ebsco-resource-8.png)
 
-#### For other ideas, see the video below.
 
+#### For other ideas, see the video below.
 [https://youtu.be/qIOU6Q\_2lA4?t=1m17s](https://youtu.be/qIOU6Q_2lA4?t=1m17s)
+
+
+_______________________________________________
+### For Further Assistance
+The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
