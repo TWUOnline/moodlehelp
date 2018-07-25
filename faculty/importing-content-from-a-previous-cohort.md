@@ -30,7 +30,8 @@ If you choose 'Next', you can navigate which items you want to import from the c
 
 ![](/assets/import-content-7.png)
 
-Don't forget to update your syllabus and assignment dues dates!
+Don't forget to update your syllabus and assignment dues dates! Happy Surfing!
+
 
 
 ### For Further Assistance
