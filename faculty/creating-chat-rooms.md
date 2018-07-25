@@ -26,7 +26,7 @@ Click **Add an Activity or Resource**
 
 Select **Chat Room** from the menu and click **Add**
 
-![](../.gitbook/assets/how-to-create-a-chat-room.png)
+![](/assets/moodle-chat-1.png)
 
 ## Enter Chat Room Info
 
@@ -34,21 +34,20 @@ Enter a name and description for the chat room. You can also set the parameters 
 
 Once you have entered all of the details, you may save and display or return to the course.
 
-![](../.gitbook/assets/enter-chat-room-info.png)
+![](/assets/moodle-chat-2.png)
 
 ## Once this task is completed you can get to chatting!
 
 Our sample Chat Room is called "Let's Talk".
 
-For participants to access this chat they can select the chat room on their course page and then select **"Click here to enter the chat now"** to talk in real time.
+![](/assets/moodle-chat-3.png)
 
-Enjoy
+For participants to access this chat they can select the chat room on their course page and then select **Click here to enter the chat now** to talk in real time.
 
-!
+![](/assets/moodle-chat-4.png)
 
-![](../.gitbook/assets/once-this-task-is-completed-you-can-get-to-chatting.png)
+Enjoy!
 
 ### For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
-
