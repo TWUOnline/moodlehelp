@@ -8,43 +8,48 @@ To learn how to create Groups, see the steps below.
 
 Login to the course in which you would like to create a new group.
 
-Click the "Users" link on the Administration block, and then select "Groups" from the drop down menu.
+Select the 'Participant' option on the menu on the left of you page.
 
-![](../.gitbook/assets/part-1-creating-a-group.png)
+![](/assets\create-groups-1.png)
+
+From the 'Actions' dropdown menu select 'Groups'.
+
+![](/assets/create-groups-2.png)
 
 ## Next,
 
-Once you are redirected to the group creation page, click the **"Create Group"** button located near the bottom of the page.
+Once you are redirected to the group creation page, click the **Create Group** button located near the bottom of the page.
 
-Supply a "Group Name" \(e.g Group 1\).
+![](/assets/create-groups-3.png)
+
+Fill the appropriate fields on your groups page. Enter the 'Group Name' \(e.g Group 1\).
 
 Fill in "Group Description" and add a group picture \(optional\).
 
 Click "Save Changes" at the bottom of the page.
+**Repeat steps as needed to create more groups.**
 
-After you have saved your changes, you will be directed back to the group creation page. Repeat the above steps to create more groups.
+![](/assets/create-groups-4.png)
 
-![](../.gitbook/assets/next.png)
+After you have saved your changes, you will be directed back to the group creation page.
 
 ## Part 2: Adding Users to a Group
 
-Out of the groups you have now created, select a Group name from the list on the left hand side of the page.
+select a Group name from the list on the left hand side of the page. To add users to your group, then select 'Add/remove users'. The window with open.
 
-Click "Add/remove users" button under the box on the right hand side of the page.
+![](/assets/create-groups-7.png)
 
-![](../.gitbook/assets/part-2-adding-users-to-a-group.png)
+Select a name from the **Potential Members** list on the right side of the page, and click on **Add.**
 
-## Next,
+![](/assets/create-groups-6.png)
 
-Select a name from the "**Potential Members**" list on the right side of the page, and click on **"Add".**
-
-Continue to **"Add"** all of the students that you wish to assign to that particular group.
+Next, Continue to **"Add"** all of the students that you wish to assign to that particular group.
 
 Once you are finished assigning group members to that particular group, click the "**Back to Groups**" button at the bottom of the page.
 
 **Repeat the steps above to add members to the remaining groups.**
 
-![](../.gitbook/assets/next-1.png)
+![](/assets/create-groups-9.png)
 
 ## Part 3: Creating "Groupings"
 
@@ -56,21 +61,30 @@ In the group creation page, find the menu bar near the top of the page and click
 
 Click the "Create grouping" button.
 
-![](../.gitbook/assets/part-3-creating-groupings.png)
+![](/assets/create-groups-10.png)
 
 ## Next steps,
 
 Provide a name for the "Grouping" \(this can be the same as the group name\).
 
-Create as many Groupings as needed,.
+![](/assets/create-groups-11.png)
 
-Next, the right "Group" must be associated with the corresponding "Grouping." To do this, find the icon that looks like two people on the far right hand side of the page, underneath the "Edit" heading of the first "Grouping." Select the appropriate group name from the "Potential members" list on the right hand side, and click "Add."
+Create as many Groupings as needed.
+
+Next, the right 'Group' must be associated with the corresponding "Grouping." To do this, find the icon 'Show Groups in Grouping', underneath the 'Edit' heading of the desired 'Grouping'.
+
+![](/assets/create-groups-12.png)
+
+![](/assets/create-groups-13.png)
+
+Select the appropriate group name from the 'Potential members' column on the right hand side, and select 'Add'.
+
+![](/assets/create-groups-14.png)
 
 Click "Back to Groupings" when you have finished, and repeat the previous step for the remaining "Groupings."
 
-![](../.gitbook/assets/next-steps.png)
+Congrats, this task is now complete, you are now free to assign tasks to specific groups.
 
 ### For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
-
