@@ -38,7 +38,7 @@ You will need the zipped file when you upload your course to Moodle, so you may 
 
 ![](../.gitbook/assets/course-files-pic.JPG)
 
-[Click here for instructions.](https://trinitywestern.teamdynamix.com/TDClient/KB/ArticleDet?ID=32925)
+[Click here for instructions.](https://twonline.gitbook.io/moodlefaq/~/drafts/-LISZupfgmxaOdkBaORL/primary/resources-for-mycourses-shutdown/restore-a-course-from-mycourses)
 
 #### For Further Assistance
 
