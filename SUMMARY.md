@@ -5,10 +5,8 @@
 ## GENERAL
 
 * [Introduction](general/introduction.md)
-* [Editing your Course List](general/editing-your-course-list.md)
 * [Forum Preferences](general/forum-preferences.md)
 * [How long will I have access to MyCourses?](general/how-long-will-i-have-access-to-mycourses.md)
-* [I dropped my course, why can I still see it in Moodle?](general/i-dropped-my-course-why-can-i-still-see-it-in-moodle.md)
 * [Logging into Moodle 3](general/logging-into-moodle-3.md)
 * [Where can I learn to use Moodle?](general/where-can-i-learn-to-use-moodle.md)
 * [Why isn't my course showing in Moodle?](general/why-isnt-my-course-showing-in-moodle.md)

@@ -6,31 +6,31 @@ Meta-Courses, **\(formerly known as Parent Courses\)** are your method of amalga
 
 From the list select 'Participants', at the top right hand corner choose the drop down settings, then select 'Enrollment Methods'
 
-![](/assets/meta-course-2.png)
+![](../.gitbook/assets/meta-course-2%20%281%29.png)
 
 ## Click 'Add method', then choose 'Course meta link'.
 
-![](/assets/meta-course-3.png)
+![](../.gitbook/assets/meta-course-3%20%281%29.png)
 
 ### Type the name of the course you want to link and select it in the search box.
 
-![](/assets/meta-course-4.png)
+![](../.gitbook/assets/meta-course-4%20%281%29.png)
 
 You can repeat the search to add more courses.
 
 You have the option of adding the students from each course to their own group in the meta course, but this is typically not necessary.
 
-![](/assets/meta-course-5.png)
+![](../.gitbook/assets/meta-course-5%20%281%29.png)
 
 Click 'Add method'.
 
-![](/assets/meta-course-6.png)
+![](../.gitbook/assets/meta-course-6%20%281%29.png)
 
 ### Congrats! Your Meta-Course is created.
 
 You can now see the new users that have been added, now that you have completed your Meta-course Instructions. This is important to note when creating meta courses as you will want to make sure you keep track and ensure that you have the correct number of users in your course.
 
-![](/assets/meta-course-7.png)
+![](../.gitbook/assets/meta-course-7%20%281%29.png)
 
 ### So, you've made a meta course...
 
@@ -40,8 +40,9 @@ Now that your meta-course is created, students can see the meta-course and the r
 
 In your 'child courses', 'Edit settings', then change the visibility to 'Hide". then save and close.
 
-![](/assets/meta-course-8.png)
+![](../.gitbook/assets/meta-course-8.png)
 
 #### For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
+
