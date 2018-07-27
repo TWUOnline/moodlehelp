@@ -4,11 +4,9 @@
 
 ## The next window should give you access to your courses on your Dashboard.
 
-<<<<<<< HEAD
 ![](/assets/dashboard.png)
-=======
+
 ![](../.gitbook/assets/dashboard-1.png)
->>>>>>> fcc24904f408a4040e0ed17ea6d81494698a3210
 
 Courses will be located in your **In Progress**, **Future** or **Past** tabs. You can also access your course in the **Timeline** tab of your Dashboard. **Note you may have multiple pages, be mindful that all your courses may be on different pages.**
 
