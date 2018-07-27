@@ -2,7 +2,7 @@
 
 ## From your empty course site in Moodle, select 'Actions' on the top right hand corner of the page. Select 'Restore'.
 
-![](/assets/restore-1.png)
+![](/assets/restore-1.PNG)
 
 ## Drag the zipped file \(this file must end in .zip\) to the area indicated in Moodle, once it is fully uploaded then click 'Restore'.
 
