@@ -4,11 +4,11 @@ To create a forum, please take the following steps:
 
 **Turn editing on** and scroll down to the section of the course in which you want to add a document.
 
-Select ![](../.gitbook/assets/adding-documents-1%20%282%29.png)
+Select ![](../.gitbook/assets/adding-documents-1-2.png)
 
 Choose **Forum** and select **Add**
 
-![](../.gitbook/assets/forum-1.png)
+![](../.gitbook/assets/forum-1%20%281%29.png)
 
 The next page to which you will be redirected automatically is entitled **Adding a new Forum**. On this page, you can select various options for your forum, follow each menu item and choose settings appropriately. Feel free to access details by selecting the question mark icon next to each setting. See the steps below for the guidelines to creating a basic forum:
 

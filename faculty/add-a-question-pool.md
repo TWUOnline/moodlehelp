@@ -2,13 +2,13 @@
 
 ## Choose "+ a random question"
 
-![](../.gitbook/assets/add-a-question-1%20%281%29.png)
+![](../.gitbook/assets/add-a-question-1-1.png)
 
 1. Choose the category from which to draw the questions. \(The number of questions in the pool will be in parentheses\).
 2. Choose the number of questions.
 3. Click 'Add random question'.
 
-![](../.gitbook/assets/add-a-question-2%20%281%29.png)
+![](../.gitbook/assets/add-a-question-2-1.png)
 
 ## Be pleased with yourself.
 
