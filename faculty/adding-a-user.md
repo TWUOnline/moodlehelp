@@ -29,11 +29,11 @@ NOTE: We cannot create accounts for users who are not members of the TWU Communi
 
 Note: Your Administration block maybe located on the right hand side of your page or it maybe docked on the left side, so location may vary for you the user :-\).
 
-![](../.gitbook/assets/adding-a-user-1%20%281%29.png)
+![](../.gitbook/assets/adding-a-user-1-1.png)
 
 ## Click 'Enrol Users'
 
-![](../.gitbook/assets/adding-a-user-2%20%281%29.png)
+![](../.gitbook/assets/adding-a-user-2-1.png)
 
 ## Choose a role from the dropdown menu and use the search box to find the user.
 
@@ -41,7 +41,7 @@ You may desire to add further stipulation to the user's enrollment.
 
 ## Click 'Enrol' once the user has been added.
 
-![](../.gitbook/assets/adding-a-user-3.png)
+![](../.gitbook/assets/adding-a-user-3%20%281%29.png)
 
 ### For Further Assistance
 

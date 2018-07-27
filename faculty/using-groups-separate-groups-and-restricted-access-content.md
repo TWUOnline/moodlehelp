@@ -10,7 +10,7 @@ To incorporate this type of Group:
 
 Scroll to the content you would like to incorporate Groups, find the icon that looks like the silhouette of a person on the far right hand side of the page. Click on this icon once.
 
-![](../.gitbook/assets/groups-settings-1.png)
+![](../.gitbook/assets/groups-settings-1%20%281%29.png)
 
 \*Note that the forum will only apply 'Separate Groups' once Groups have been created and students have been assigned to them. \([Learn to create groups here.](https://twonline.gitbook.io/moodlefaq/~/edit/drafts/-LIReiRkB7ZiltBhboHz/faculty/creating-groups-and-groupings)\)
 
@@ -22,7 +22,7 @@ Make sure that editing is turned on. Follow the instructions as above.
 
 \*Note: The pic below shows how each silhouette looks with each group option.
 
-![](../.gitbook/assets/groups-settings-8.png)
+![](../.gitbook/assets/groups-settings-8%20%281%29.png)
 
 ## Option 2 - Restricting Access
 
@@ -34,7 +34,7 @@ To incorporate this type of Group, do the following while creating your content 
 
 Make sure that editing is turned on, and begin the creation of your forum by going to the desired section, and clicking "Add an activity/resource."
 
-![](../.gitbook/assets/groups-settings-2%20%281%29.png)
+![](../.gitbook/assets/groups-settings-2-1.png)
 
 From the list that pops up, select "Forum" and then click "Add."
 
@@ -42,7 +42,7 @@ From the list that pops up, select "Forum" and then click "Add."
 
 There is a number of menu options, scroll down to "Restrict access".
 
-![](../.gitbook/assets/groups-settings-3.png)
+![](../.gitbook/assets/groups-settings-3%20%281%29.png)
 
 ## There are a number of options to restrict content.
 
@@ -50,17 +50,17 @@ Select "Add Restriction"
 
 Choose either the "Group" or "Grouping" option.
 
-![](../.gitbook/assets/groups-settings-4.png)
+![](../.gitbook/assets/groups-settings-4%20%281%29.png)
 
 **We choose 'Group' in this instance.** Feel free to set the appropriate groups and restriction as needed.
 
-![](../.gitbook/assets/groups-settings-5%20%281%29.png)
+![](../.gitbook/assets/groups-settings-5-1.png)
 
-![](../.gitbook/assets/groups-settings-6.png)
+![](../.gitbook/assets/groups-settings-6%20%281%29.png)
 
 To recap with this option you can select the group and restrict the visibility. \*Feel free to hover over the eye to see which option is being used. Students in the group you have specified will see the content, if not you can set it to be grayed out or disappear completely.
 
-![](../.gitbook/assets/groups-settings-7%20%281%29.png)
+![](../.gitbook/assets/groups-settings-7-1.png)
 
 Once completed 'Save and return to course'.
 

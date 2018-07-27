@@ -26,7 +26,7 @@ Click **Add an Activity or Resource**
 
 Select **Chat Room** from the menu and click **Add**
 
-![](../.gitbook/assets/moodle-chat-1.png)
+![](../.gitbook/assets/moodle-chat-1%20%281%29.png)
 
 ## Enter Chat Room Info
 
@@ -40,11 +40,11 @@ Once you have entered all of the details, you may save and display or return to 
 
 Our sample Chat Room is called "Let's Talk".
 
-![](../.gitbook/assets/moodle-chat-3%20%281%29.png)
+![](../.gitbook/assets/moodle-chat-3-1.png)
 
 For participants to access this chat they can select the chat room on their course page and then select **Click here to enter the chat now** to talk in real time.
 
-![](../.gitbook/assets/moodle-chat-4%20%281%29.png)
+![](../.gitbook/assets/moodle-chat-4-1.png)
 
 Enjoy!
 

@@ -4,7 +4,7 @@ The most commonly used Activities, Assignment Dropboxes allow students to submit
 
 ## Remember: Always turn editing on.
 
-![](../.gitbook/assets/add-assignment-1%20%281%29.png)
+![](../.gitbook/assets/add-assignment-1-1.png)
 
 Choose Assignment from the Activity menu. Then click "**Add**" at the bottom of the window.
 
@@ -12,7 +12,7 @@ Choose Assignment from the Activity menu. Then click "**Add**" at the bottom of 
 
 ![](../.gitbook/assets/add-assignment-2.png)
 
-![](../.gitbook/assets/add-assignment-3%20%281%29.png)
+![](../.gitbook/assets/add-assignment-3-1.png)
 
 1. Supply a Name for the Assignment. _Make sure it is something that your students will recognize_.
 2. Enter a description of the assignment.
@@ -39,7 +39,7 @@ You may set the parameters for your assignment dropbox using the following optio
 
 Once options are selected click **Save and return to course or display** to preview your drop box.
 
-![](../.gitbook/assets/add-assignment-5%20%281%29.png)
+![](../.gitbook/assets/add-assignment-5-1.png)
 
 ## For Further Assistance
 

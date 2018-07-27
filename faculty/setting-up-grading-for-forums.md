@@ -8,15 +8,15 @@ In your forum's settings you will need to scroll down to the **Ratings** option.
 
 The default setting is an Aggregate type **No Ratings**
 
-![](../.gitbook/assets/grading-forums-2.png)
+![](../.gitbook/assets/grading-forums-2%20%281%29.png)
 
 You'll want to change the aggregation appropriately for your gradebook, feel free to investigate the appropriate type for you by selecting the ? next to each setting.
 
 Next, choose the appropriate **Scale** type, usually **Point** but you may also choose **Scale** if desired. Enter the desired max grade. You may also place date restrictions on the forum as well.
 
-![](../.gitbook/assets/grading-forums-3%20%281%29.png)
+![](../.gitbook/assets/grading-forums-3-1.png)
 
 Once one's forum settings are all entered, 'Save and Return to Course". Feel free to review your gradebook and set the appropriate weights with the new addition.
 
-![](../.gitbook/assets/grading-forums-4.png)
+![](../.gitbook/assets/grading-forums-4%20%281%29.png)
 

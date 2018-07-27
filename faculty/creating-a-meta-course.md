@@ -6,31 +6,31 @@ Meta-Courses, **\(formerly known as Parent Courses\)** are your method of amalga
 
 From the list select 'Participants', at the top right hand corner choose the drop down settings, then select 'Enrollment Methods'
 
-![](../.gitbook/assets/meta-course-2%20%281%29.png)
+![](../.gitbook/assets/meta-course-2-1.png)
 
 ## Click 'Add method', then choose 'Course meta link'.
 
-![](../.gitbook/assets/meta-course-3%20%281%29.png)
+![](../.gitbook/assets/meta-course-3-1.png)
 
 ### Type the name of the course you want to link and select it in the search box.
 
-![](../.gitbook/assets/meta-course-4%20%281%29.png)
+![](../.gitbook/assets/meta-course-4-1.png)
 
 You can repeat the search to add more courses.
 
 You have the option of adding the students from each course to their own group in the meta course, but this is typically not necessary.
 
-![](../.gitbook/assets/meta-course-5%20%281%29.png)
+![](../.gitbook/assets/meta-course-5-1.png)
 
 Click 'Add method'.
 
-![](../.gitbook/assets/meta-course-6%20%281%29.png)
+![](../.gitbook/assets/meta-course-6-1.png)
 
 ### Congrats! Your Meta-Course is created.
 
 You can now see the new users that have been added, now that you have completed your Meta-course Instructions. This is important to note when creating meta courses as you will want to make sure you keep track and ensure that you have the correct number of users in your course.
 
-![](../.gitbook/assets/meta-course-7%20%281%29.png)
+![](../.gitbook/assets/meta-course-7-1.png)
 
 ### So, you've made a meta course...
 
