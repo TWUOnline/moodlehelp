@@ -14,9 +14,9 @@ Select your user profile drop down menu on the top right hand corner.
 
 ![](/assets/forum-prefer-3.png)
 
-## There are many options to choose from. Opt to be notified about forum posts, or track forum posts. For further details access the **?** located next to each option.
+There are many options to choose from. Opt to be notified about forum posts, or track forum posts. For further details access the **?** located next to each option.
 
-Once settings are complete, 'Save Changes'
+Once settings are complete, 'Save Changes'.
 
 ## For Further Assistance
 
