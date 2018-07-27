@@ -1,2 +1,0 @@
-# EBSCO Curriculum Builder
-
