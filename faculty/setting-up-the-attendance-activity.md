@@ -8,9 +8,9 @@ Once you've accessed the Activity listing, select 'Attendance', then 'Add'.
 
 ![](../.gitbook/assets/attendance-2%20%281%29.png)
 
-You have now added a new 'Attendance' Activity to your course page. This next steps allows you to add the settings to the feature. You may choose to add a grade to your attendance if it is apart of your course requirements, set restrictions, track the activity or create groups, the choice is yours. **NOTE: If you have questions about the settings be sure to select the question mark.**
+You have now added a new 'Attendance' Activity to your course page. This next steps allows you to add the settings to the feature. You may choose to add a grade to your attendance if it is apart of your course requirements, set restrictions, track the activity or create groups, the choice is yours. **NOTE: If you have questions about the settings be sure to select the question mark by each setting for further clarity.**
 
-![](../.gitbook/assets/attendance-3-1.png) by each setting for further clarity.
+![](../.gitbook/assets/attendance-3-1.png)
 
 The next step is to 'Add Session'. There is an option to add one or multiple sessions depending on your needs.
 
@@ -37,4 +37,3 @@ To add attendance every week under the 'Actions' column select the 'Take Attenda
 ### For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
-
