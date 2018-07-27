@@ -2,23 +2,21 @@
 
 ## Below are instructions on how to alter forum preferences.
 
-Select your user profile on the top right hand corner.
+Select your user profile drop down menu on the top right hand corner.
 
 ![](/assets/forum-prefer-2.png)
 
-## Under ‘User Account’ select ‘Forum Preferences’.
+## Select ‘Preferences’.
 
 ![](/assets/forum-prefer-1.png)
 
-## Under ‘User Account’ and select ‘Forum Preferences’.
+## Next select ‘Forum Preferences’.
 
-![](../.gitbook/assets/viewer3.jpg)
+![](/assets/forum-prefer-3.png)
 
-## Choose the Forum Tracking drop down menu. Select ‘Yes: highlight new posts for me”. Save changes.
+## There are many options to choose from. Opt to be notified about forum posts, or track forum posts. For further details access the **?** located next to each option.
 
-![](../.gitbook/assets/viewer4.jpg)
-
-Now your new forum posts should be highlighted.
+Once settings are complete, 'Save Changes'
 
 ## For Further Assistance
 
