@@ -4,7 +4,7 @@
 
 ### The next window should give you access to your courses on your Dashboard.
 
-![](/assets/dashboard-1.png)
+![](/assets/dashboard.png)
 
 Courses will be located in your **In Progress**, **Future** or **Past** tabs. You can also access your course in the **Timeline** tab of your Dashboard. **Note you may have multiple pages, be mindful that though your course might not appear present they may be on a different page.**
 
