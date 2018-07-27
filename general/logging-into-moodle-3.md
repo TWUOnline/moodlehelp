@@ -1,14 +1,12 @@
 # Logging into Moodle
 
-### Access **learn.twu.ca** and enter your TWUPass credentials
+### Access [learn.twu.ca](learn.twu.ca) and enter your TWUPass credentials.
 
 ### The next window should give you access to your courses on your Dashboard.
 
-
 ![](/assets/dashboard-1.png)
 
-
-Courses will be located in your **In Progress**, **Future** or **Past** tabs. You can also access your course in the **Timeline** tab of your Dashboard. **Note you may have multiple pages, be mindful that all your courses may be on different pages.**
+Courses will be located in your **In Progress**, **Future** or **Past** tabs. You can also access your course in the **Timeline** tab of your Dashboard. **Note you may have multiple pages, be mindful that though your course might not appear present they may be on a different page.**
 
 If you do not see all of your courses, please submit a [helpdesk ticket](https://trinitywestern.teamdynamix.com/TDClient/Requests/TicketRequests/TicketForm.aspx?ID=hRv7mA08DtA_).
 

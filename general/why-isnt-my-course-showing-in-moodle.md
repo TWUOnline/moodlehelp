@@ -4,7 +4,7 @@ There are several reasons why your course might not be showing in Moodle.
 
 * Your instructor has hidden the course while they are updating it.
 * Your dashboard is only showing some of your courses.
-  * scroll to the bottom of the page and scroll through other pages or the courses might be in your 'Past', 'Future' 'In Process' tabs.
+  * there may be other pages or the courses may be in your 'Past', 'Future' 'In Process' tabs.
 * You are on the waitlist or pre-registered for the course.
   * Please contact the office of the Registrar.
 * You are not up-to-date on your tuition payments.
