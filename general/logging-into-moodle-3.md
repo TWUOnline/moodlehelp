@@ -1,6 +1,6 @@
 # Logging into Moodle
 
-### Access to **learn.twu.ca** and enter your TWUPass credentials
+### Access **learn.twu.ca** and enter your TWUPass credentials
 
 ### The next window should give you access to your courses on your Dashboard.
 
