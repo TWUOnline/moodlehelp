@@ -12,25 +12,25 @@ After creating all the assignments, forums etc for your course, it is now time t
 
 ## Accessing Gradebook Options
 
-On your course page, on your Administration block you can select **Grades** or **Gradebook setup.**
+On your course page, on the left menu select **Grades**.
 
-![](../.gitbook/assets/accessing-gradebook-options.png)
+![](/assets/gradebook-overview-1.png)
 
 ## NOTE:
 
-There are two views that a most important to be aware of:
+There are two views that a most important to be aware of, Gradebook Setup and Grader Reporter.
 
-![](../.gitbook/assets/note.png)
+![](/assets/gradebook-overview-2.png)
+![](/assets/gradebook-overview-3.png)
 
 ## To Access additional instructions on Gradebook Setup and Grader Report
 
 Select the following links:
 
-[Gradebook Setup](https://trinitywestern.teamdynamix.com/TDClient/KB/ArticleDet?ID=27639)
+[Gradebook Setup](https://twonline.gitbook.io/moodlefaq/gradebook/gradebook-setup)
 
-[Grader Report](https://trinitywestern.teamdynamix.com/TDClient/KB/ArticleDet?ID=30859)
+[Grader Report](https://twonline.gitbook.io/moodlefaq/gradebook/grader-report)
 
 ### For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
-

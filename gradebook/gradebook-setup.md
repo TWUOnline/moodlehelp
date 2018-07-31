@@ -9,15 +9,15 @@ There are four key steps to setting up your gradebook in Moodle.
 
 ## 1. Make sure your aggregation method is set to 'Natural'
 
-### In your 'Administration' block, click 'Gradebook setup.
+![](/assets/gradebook-setup-1.png)
 
-![](../.gitbook/assets/screen-shot-2018-01-17-at-10.41.25-am.png)
+### On your course menu page, select 'Gradebook Setup'.
 
-You may see some items in your course from the previous cohort os students, but we will start from an empty gradebook for this tutorial.
+![](/assets/gradebook-setup-3.png)
 
-### In the top row of the gradebook setup screen \(it should display the name of your course\), click 'Edit', then 'Edit Settings'.
+### In the top row of the gradebook setup screen under 'Actions' \(it should display the name of your course\), select 'Edit', then 'Edit Settings'.
 
-![](../.gitbook/assets/screen-shot-2018-01-17-at-10.53.14-am.png)
+![](/assets/gradebook-setup-2.png)
 
 If the 'Aggregation' is anything other than 'Natural', change it to Natural, scroll to the bottom of the page, and click 'Save Changes'.
 
@@ -105,4 +105,3 @@ Select the check boxes in the righthand column of each item, scroll down and use
 ### For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
-
