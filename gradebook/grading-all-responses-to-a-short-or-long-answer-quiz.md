@@ -16,7 +16,7 @@ You can change the number of attempts shown at the top of the page. Be careful, 
 
 ![](/assets/answerquizzes-4.png)
 
-You can review the grades in Grader Report.
+You can review the grades in [Grader Report](https://twonline.gitbook.io/moodlefaq/gradebook/grader-report).
 
 ## For Further Assistance
 
