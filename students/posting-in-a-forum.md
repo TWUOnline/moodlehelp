@@ -32,6 +32,9 @@ Once you have clicked "Add a new discussion topic", you will be redirected to th
 
 When you are finished, save your post by clicking "Post to forum" at the bottom of the page.
 
+![](/assets/post-forum-6.png) [Logo Credit](http://logos.wikia.com/wiki/File:Marvel_super_heroes_psx_logo.jpg)
+
+
 ## Timeline to edit original posts.
 
 You can edit your discussion topic for **30 minutes after posting**. You can delete your posts or responses at any time.
