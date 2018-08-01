@@ -47,7 +47,6 @@
 * [Grading all responses to a short or long answer quiz](gradebook/grading-all-responses-to-a-short-or-long-answer-quiz.md)
 * [Grader Report](gradebook/grader-report.md)
 * [Downloading Gradebook](gradebook/downloading-gradebook.md)
-* [Display Settings for Gradebook](gradebook/display-settings-for-gradebook.md)
 
 ## STUDENTS
 
