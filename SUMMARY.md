@@ -26,7 +26,6 @@
 * [Creating a Quiz](faculty/creating-a-quiz.md)
 * [Creating Chat Rooms](faculty/creating-chat-rooms.md)
 * [Creating Groups and Groupings](faculty/creating-groups-and-groupings.md)
-* [EBSCO Curriculum Builder](faculty/ebsco-curriculum-builder-1.md)
 * [Importing content from a previous cohort](faculty/importing-content-from-a-previous-cohort.md)
 * [Unenrolling Students](faculty/unenrolling-students.md)
 * [Using Groups \(Separate groups and Restricted Access Content\)](faculty/using-groups-separate-groups-and-restricted-access-content.md)
