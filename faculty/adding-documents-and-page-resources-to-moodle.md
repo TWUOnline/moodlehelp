@@ -5,32 +5,28 @@
 **Adding documents to Moodle is a useful way to provide your students with forms, questionnaires, and other types of interactive resources that cannot be accessed by students on the internet \(see Part 2 for guidelines to adding other types of text content\). To learn how to add a document to a course, see the instructions below.**
 
 1. **Turn editing on** and scroll down to the section of the course in which you want to add a document.
-2. Click the
-
-   ![](../.gitbook/assets/adding-documents-1-1.png)
-
-   button in the bottom right hand corner of the section.
+2. Click the ![](/assets/adding-documents-1.png) button in the bottom right hand corner of the section.
 
 3. From the list that appears, scroll down to the **Resources** heading and select **File**.
 
-![](../.gitbook/assets/adding-documents-2-1.png)
+![](/assets/adding-documents-2.png)
 
-1. Provide a name for your document. Note: The name that you provide will appear on your course homepage.
-2. Next,**Select Files** heading and browse for a file by selecting the ![](../.gitbook/assets/adding-documents-3-3.png) icon in the left hand corner, or there is also the option of dragging and dropping the file into the box provided.
+4. Provide a name for your document. Note: The name that you provide will appear on your course homepage.
+5. Next, **Select Files** heading and browse for a file by selecting the ![](/assets/adding-documents-3.png) icon in the left hand corner, or there is also the option of dragging and dropping the file into the box provided.
 
-![](../.gitbook/assets/adding-documents-4%20%281%29.png)
+![](/assets/adding-documents-4.png)
 
 ## The Search and Upload Option
 
-![](../.gitbook/assets/adding-documents-3%20%281%29.png)
+Select the ![](/assets/adding-documents-3.png) icon.
 
 A pop-up window will appear;
 
-![](../.gitbook/assets/adding-documents-5-1.png) from the list on the left hand side, select **Upload a file**.
+![](/assets/adding-documents-5.png) from the list on the left hand side, select **Upload a file**.
 
 Browse for the file on your computer, select it, and then select
 
-![](../.gitbook/assets/adding-documents-6-1.png)
+![](/assets/adding-documents-6.png)
 
 Your newly uploaded file will appear as an icon as pictured below.
 
@@ -40,7 +36,7 @@ Your newly uploaded file will appear as an icon as pictured below.
 
 To do this, click on a file from your computer and hold it down, while dragging it to the aforementioned box. Let go of the document once you are hovering over the box. Your document should then appear as an icon within that box.
 
-![](../.gitbook/assets/adding-documents-8-1.gif)
+![](../.gitbook/assets/adding-documents-8.gif)
 
 1. Once you have uploaded your document, and entered other options you desire, select the **Save and return to course** button at the bottom of the page. The document will now be accessible to students through the course homepage.
 
@@ -58,7 +54,6 @@ To do this, click on a file from your computer and hold it down, while dragging 
 
 Finally, **Save & Display**
 
-### For Further Assistance
+## For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
-
