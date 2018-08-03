@@ -5,6 +5,7 @@
 ## GENERAL
 
 * [Introduction](general/introduction.md)
+* [Some New Things with Moodle 3.5](general/some-new-things-with-moodle-3.5.md)
 * [Forum Preferences](general/forum-preferences.md)
 * [How long will I have access to MyCourses?](general/how-long-will-i-have-access-to-mycourses.md)
 * [Logging into Moodle 3](general/logging-into-moodle-3.md)
