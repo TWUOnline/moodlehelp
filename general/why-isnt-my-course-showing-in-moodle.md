@@ -4,7 +4,8 @@ There are several reasons why your course might not be showing in Moodle.
 
 * Your instructor has hidden the course while they are updating it.
 * Your dashboard is only showing some of your courses.
-  * scroll to the bottom of the page and scroll through other pages or the courses might be in your 'Past', 'Future' 'In Process' tabs.
+  1. Scroll to the bottom of courses listed, scroll through other pages
+  2. Have a look through your 'Past', 'Future' 'In Process' tabs.
 * You are on the waitlist or pre-registered for the course.
   * Please contact the office of the Registrar.
 * You are not up-to-date on your tuition payments.
@@ -16,4 +17,3 @@ There are several reasons why your course might not be showing in Moodle.
 ## For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
-
