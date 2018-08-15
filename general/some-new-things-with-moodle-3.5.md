@@ -1,7 +1,5 @@
 # Some New Things with Moodle 3.5
 
-trinitywestern
-
 We are so excited for the new upgrade of Moodle and we hope you are enjoying it as much as we are.
 
 There are a few things different to know and we have created a list below. Feel free to browse.
