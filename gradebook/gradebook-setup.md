@@ -9,15 +9,15 @@ There are four key steps to setting up your gradebook in Moodle.
 
 ## 1. Make sure your aggregation method is set to 'Natural'
 
-![](/assets/gradebook-setup-1.png)
+![](../.gitbook/assets/gradebook-setup-1.png)
 
 ### On your course menu page, select 'Gradebook Setup'.
 
-![](/assets/gradebook-setup-3.png)
+![](../.gitbook/assets/gradebook-setup-3.png)
 
 #### In the top row of the gradebook setup screen under 'Actions' \(it should display the name of your course\), select 'Edit', then 'Edit Settings'.
 
-![](/assets/gradebook-setup-4.png)
+![](../.gitbook/assets/gradebook-setup-4.png)
 
 Be mindful that aggregation is Natural. You have several options to exclude empty grades, chose the grade display type, etc. Once you have selected on the desired settings, scroll to the bottom of the page, and click 'Save Changes'.
 
@@ -27,7 +27,7 @@ Be mindful that aggregation is Natural. You have several options to exclude empt
 
 ### At the bottom of your Gradebook Setup page you can select **Add Category**.
 
-![](/assets/gradebook-setup-5.png)
+![](../.gitbook/assets/gradebook-setup-5.png)
 
 Enter a name for the category, such as 'Assignments', or 'Quizzes' or choose a category appropriate for your needs.
 
@@ -53,11 +53,11 @@ Creating an 'Assignment' in Moodle does several things:
 
 In the image below, you can see that we've added an 'Assignments' category plus three assignment dropboxes in the course.
 
-![](/assets/gradebook-setup-8.png)
+![](../.gitbook/assets/gradebook-setup-8.png)
 
 Note that the assignments are currently weighted also out of 100%. Do not adjust the weights just yet!
 
-![](/assets/gradebook-setup-9.png)
+![](../.gitbook/assets/gradebook-setup-9.png)
 
 ## 3b. Add _all_ of your manual grade items.
 
@@ -71,9 +71,6 @@ A manual grade item is an assessment that students do not submit through Moodle.
 * **click 'Save changes'.**
 
 Now, I have added another category for mid-term exams with two midterms, and a Final Exam. Again, notice the weights are not correct, but Moodle has adjusted them to total 100.
-
-[](/assets/gradebook-setup-10.png)
-
 
 ## 4. Adjust 'Category' weights.
 
@@ -106,3 +103,4 @@ Select the check boxes in the righthand column of each item, scroll down and use
 ### For Further Assistance
 
 The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
+
