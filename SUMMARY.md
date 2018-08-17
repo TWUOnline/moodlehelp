@@ -10,7 +10,7 @@
 * [How long will I have access to MyCourses?](general/how-long-will-i-have-access-to-mycourses.md)
 * [Logging into Moodle 3](general/logging-into-moodle-3.md)
 * [Where can I learn to use Moodle?](general/where-can-i-learn-to-use-moodle.md)
-* [Why isn't my course showing in Moodle?](general/why-isnt-my-course-showing-in-moodle.md)
+* [Why aren't my courses showing in Moodle?](general/why-isnt-my-course-showing-in-moodle.md)
 
 ## FACULTY
 
@@ -54,5 +54,4 @@
 * [Posting in a forum](students/posting-in-a-forum.md)
 * [Submitting an assignment](students/submitting-an-assignment.md)
 * [Unenrol yourself from a course in Moodle](students/unenrol-yourself-from-a-course-in-moodle.md)
-* [Where are my courses?](students/where-are-my-courses.md)
 
