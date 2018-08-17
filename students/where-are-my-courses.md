@@ -3,7 +3,7 @@ There has been some changes with this one, as your new Dashboard is divided into
 
 ![](../.gitbook/assets/dashboard.png)
 
-You may also have multiple pages, if you are Faculty or Staff be sure to look for additional pages on your 'Courses' tab.
+You may also have multiple pages, be sure to look for additional pages on your 'Courses' tab.
 
 ## For Further Assistance
 
