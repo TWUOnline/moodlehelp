@@ -52,6 +52,7 @@
 
 ## STUDENTS
 
+* [Editing your User Profile](students/editing-your-user-profile.md)
 * [Posting in a forum](students/posting-in-a-forum.md)
 * [Submitting an assignment](students/submitting-an-assignment.md)
 * [Unenrol yourself from a course in Moodle](students/unenrol-yourself-from-a-course-in-moodle.md)
