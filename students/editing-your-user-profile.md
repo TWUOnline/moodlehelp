@@ -10,7 +10,7 @@ Select "Edit profile" on the left side of the screen.
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-Enter new email address in the box labeled "email address".
+Enter new information.
 
 After editing, feel free to click "update profile".
 
