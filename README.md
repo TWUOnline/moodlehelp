@@ -5,15 +5,15 @@ Moodle is a web platform that allows students and faculty to access a common, se
 Moodle is one component of TWU's Digital Learning Commons, which also includes [WordPress](https://create.twu.ca), [PressBooks](https://books.twu.ca), and other platforms maintained by individual faculty.
 
 ## Support Hours
-### Regular Coverage Starting September 3
 
-| Days | Hours | Estimated Ticket Response Time |
-|:---:| :---:|:---:|
-|Monday-Friday|9am-9pm| 1 hour |
-|Saturday & Stat Holidays   |9am-9pm   | 1 hour  | 
-|Sunday   | 9am-9pm  | 1 hour  | 
+#### Daily hours - 9:00am until 9:00 pm - 7 Days per week.
 
-### Christmas and New Years
+We endeavour to respond to tickets within one hour during these times, however, during peak times, we may not always hit this target.
+
+Our Academic Technology Ambassadors are all TWU students and they are always learning more about Moodle too!
+
+
+### Christmas 2018 and New Years 2019
 | Days | Hours | Response Time |
 |:---:| :---:|:---:|
 |From Dec 24 @ 12pm until Dec 26 @ 12pm   |No Coverage   |   | 
@@ -23,5 +23,5 @@ Moodle is one component of TWU's Digital Learning Commons, which also includes [
 
 ## For Further Assistance
 
-The eSupport Team is a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, the eSupport Team is located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. eSupport also offers Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [eSupport](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) for assistance making Moodle work for you.
+The Academic Technology Ambassadors are a group of dedicated students and staff members who work to improve the Moodle learning experience for students and Instructors alike. A member of TWU Extension, we are located in the Northwest Building of TWU’s Langley campus. Whether your question is simple or complicated, a Team member will get back to you in a timely manner with a thorough response. We also offer Basic and Advanced Moodle trainings, either in-person or over the phone. Contact [the Academic Technology Helpdesk by creating a ticket here](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceDet?ID=16141) and we will help make Moodle work for you.
 
