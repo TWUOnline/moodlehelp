@@ -12,14 +12,14 @@ We endeavour to respond to tickets within one hour during these times, however, 
 
 Our Academic Technology Ambassadors are all TWU students and they are always learning more about Moodle too!
 
-
 ### Christmas 2018 and New Years 2019
+
 | Days | Hours | Response Time |
-|:---:| :---:|:---:|
-|From Dec 24 @ 12pm until Dec 26 @ 12pm   |No Coverage   |   | 
-|From Dec 31 @ 12pm until Jan 1 @ 12pm  | No Coverage   |   |  
-|Dec 26-31   | 9am-4pm   | 1 hour  |
-|Jan 2-6   | 9am-4pm  | 1 hour  |
+| :---: | :---: | :---: |
+| From Dec 24 @ 12pm until Dec 26 @ 12pm | No Coverage |  |
+| From Dec 31 @ 12pm until Jan 1 @ 12pm | No Coverage |  |
+| Dec 26-31 | 9am-4pm | 1 hour |
+| Jan 2-6 | 9am-4pm | 1 hour |
 
 ## For Further Assistance
 

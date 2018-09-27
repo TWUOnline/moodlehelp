@@ -1,9 +1,3 @@
----
-description: >-
-  Using this simple function, you will be able to send a single message to all
-  your class participants.
----
-
 # Sending Mass Messages
 
 Begin by clicking on **Participants** located on the left side of your screen.

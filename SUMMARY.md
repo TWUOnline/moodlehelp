@@ -34,6 +34,7 @@
 * [Setting 'User Report' Display](faculty/setting-user-report-display.md)
 * [Adding Extra Credit to Gradebook](faculty/adding-extra-credit-to-gradebook.md)
 * [Sending Mass Messages](faculty/sending-mass-messages.md)
+* [Creating a filtered course list](faculty/creating-a-filtered-course-list.md)
 
 ## Resources for MyCourses Shutdown
 
