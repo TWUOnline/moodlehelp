@@ -1,6 +1,6 @@
 # Logging into Moodle 3
 
-### Access [learn.twu.ca](https://github.com/TWUOnline/moodlehelp/tree/da8a50cc81bc3773dad5e65262781505a7d47b7c/general/learn.twu.ca) and enter your TWUPass credentials
+### Access [learn.twu.ca](learn.twu.ca) and enter your TWUPass credentials
 
 ### The next window should give you access to your courses on your Dashboard.
 
