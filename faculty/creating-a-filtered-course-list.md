@@ -12,7 +12,7 @@ Click "**Add a block**"  and select "**Filtered course list**"
 
 In the "Filtered course list" block, click the gear icon and select "**Configure filtered course list block**"
 
-![](../.gitbook/assets/configure-courselist.PNG)
+![](../.gitbook/assets/configure-courselist%20%281%29.PNG)
 
 You can choose the courses you want to appear on your list. Eg. If you want to see a list of courses from a previous term, enter: **shortname \| exp \| My courses \| \(SP18\)** or any other term of your choice. Then **Save Changes**
 
