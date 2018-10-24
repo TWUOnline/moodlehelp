@@ -36,20 +36,23 @@
 * [Sending Mass Messages](faculty/sending-mass-messages.md)
 * [Creating a filtered course list](faculty/creating-a-filtered-course-list.md)
 
+
+## GRADEBOOK
+
+* [Course Total Display](gradebook/course-total-display.md)
+* [Downloading Gradebook](gradebook/downloading-gradebook.md)
+* [Grade an assignment](gradebook/grade-an-assignment.md)
+* [Gradebook \(Instructors Overview\)](gradebook/gradebook-instructors-overview.md)
+* [Gradebook Setup](gradebook/gradebook-setup.md)
+* [Grading all responses to a short or long answer quiz](gradebook/grading-all-responses-to-a-short-or-long-answer-quiz.md)
+* [Grader Report](gradebook/grader-report.md)
+
 ## Resources for MyCourses Shutdown
 
 * [Backup from MyCourses](resources-for-mycourses-shutdown/backup-from-mycourses.md)
 * [Uploading Backup from MyCourses](resources-for-mycourses-shutdown/uploading-backup-from-mycourses.md)
 * [Restore a course from MyCourses](resources-for-mycourses-shutdown/restore-a-course-from-mycourses.md)
 
-## GRADEBOOK
-
-* [Grade an assignment](gradebook/grade-an-assignment.md)
-* [Gradebook \(Instructors Overview\)](gradebook/gradebook-instructors-overview.md)
-* [Gradebook Setup](gradebook/gradebook-setup.md)
-* [Grading all responses to a short or long answer quiz](gradebook/grading-all-responses-to-a-short-or-long-answer-quiz.md)
-* [Grader Report](gradebook/grader-report.md)
-* [Downloading Gradebook](gradebook/downloading-gradebook.md)
 
 ## STUDENTS
 
